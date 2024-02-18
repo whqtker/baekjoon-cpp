@@ -20,6 +20,7 @@ int main() {
 		}
 
 		int cnt = 0;
+		vector<int> team(n + 1);
 		for (int j = 1; j <= n; j++) {
 			stack<int> s;
 			s.push(j);
@@ -27,31 +28,21 @@ int main() {
 			vector<int> visited(n + 1);
 			visited[j] = 1;
 
-			bool flag = false;
 			while (!s.empty()) {
 				int x = s.top();
 				int target = v[x];
 				s.pop();
-
-				// 짝지어진 경우
-				if (j == target) {
-					flag = true;
-					break;
-				}
-
-				// 무한루프에 빠져 팀이 만들어질 수 없는 경우
-				if (x == target)
-					break;
 
 				// 팀을 찾는 과정
 				if (!visited[target]) {
 					s.push(target);
 					visited[target] = 1;
 				}
+				else if (visited[target] && !team[target]) {
+					cnt++;
+					break;
+				}
 			}
-
-			if (!flag)
-				cnt++;
 		}
 
 		cout << cnt << "\n";
