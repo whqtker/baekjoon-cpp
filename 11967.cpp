@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <queue>
+#include <vector>
 
 using namespace std;
 
@@ -16,11 +17,13 @@ int main() {
 		v[a - 1][b - 1].push_back({ c - 1,d - 1 }); // 인덱스 보정
 	}
 
+	vector<vector<int>> light(n, vector<int>(n)); // 켜진 전등
 	queue<pair<int, int>> q;
 	vector<vector<int>> light(n, vector<int>(n));
 
 	light[0][0] = 1;
 	q.push({ 0,0 });
+	light[0][0] = 1;
 
 	int cnt = 1;
 	while (!q.empty()) {
@@ -36,6 +39,7 @@ int main() {
 			int b = v[x][y][i].second;
 
 			if (!light[a][b]) {
+				light[a][b] = 1;
 				cnt++;
 				light[a][b] = 1;
 			}
