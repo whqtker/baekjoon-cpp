@@ -1,33 +1,33 @@
 #include <iostream>
-#include <vector>
 #include <stack>
 
 using namespace std;
 
 int ans[1000001];
+int arr[1000001];
 
 int main() {
 	int n;
 	cin >> n;
-	vector<int> v;
 
 	stack<int> s;
 	for (int i = 0; i < n; i++) {
-		int x;
-		cin >> x;
-		v.push_back(x);
+		cin >> arr[i];
 	}
 
-	ans[n - 1] = -1;
-	for (int i = 0; i < n - 1; i++) {
-		s.push(v[i]);
+	for (int i = n - 1;i >= 0;i--) {
+		while (!s.empty() && s.top() <= arr[i])
+			s.pop();
 
-		if (v[i] < v[i + 1]) {
-			ans[i] = v[i + 1];
+		if (s.empty())
+			ans[i] = -1;
+		else
+			ans[i] = s.top();
 
-			while (s.top() < v[i + 1]) {
+		s.push(arr[i]);
+	}
 
-			}
-		}
+	for (int i = 0; i < n; i++) {
+		cout << ans[i] << " ";
 	}
 }
