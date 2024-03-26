@@ -8,6 +8,7 @@ using namespace std;
 
 vector<pair<long long, long long>> nodes[1001];
 long long dist[1001];
+int city[1001]; // city[x] = y: x까지 도달하는 최소 거리는 y에서 시작한다.
 
 int main() {
 	int n, m;
@@ -17,7 +18,6 @@ int main() {
 		int s, e, c;
 		cin >> s >> e >> c;
 		nodes[s].push_back({ e,c });
-		nodes[e].push_back({ s,c });
 	}
 
 	int start, end;
@@ -32,4 +32,36 @@ int main() {
 
 	priority_queue<pair<long long, long long>, vector<pair<long long, long long>>, greater<pair<long long, long long>>> pq;
 	pq.push({ 0,start });
+
+	while (!pq.empty()) {
+		int w = pq.top().first;
+		int cur = pq.top().second;
+		pq.pop();
+
+		if (dist[cur] < w)
+			continue;
+
+		for (int i = 0;i < nodes[cur].size();i++) {
+			if (dist[nodes[cur][i].first] > w + nodes[cur][i].second) {
+				dist[nodes[cur][i].first] = w + nodes[cur][i].second;
+				pq.push({ dist[nodes[cur][i].first] ,nodes[cur][i].first });
+				city[nodes[cur][i].first] = cur;
+			}
+		}
+	}
+
+	cout << dist[end] << "\n";
+	vector<int> v;
+
+	v.push_back(end);
+	while (city[end]) {
+		v.push_back(city[end]);
+		end = city[end];
+	}
+
+	cout << v.size() << "\n";
+
+	for (int i = v.size() - 1;i >= 0;i--) {
+		cout << v[i] << " ";
+	}
 }
