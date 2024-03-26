@@ -264,6 +264,13 @@
     <ClCompile Include="8894.cpp" />
     <ClCompile Include="2638.cpp" />
     <ClCompile Include="11779.cpp" />
+    <ClCompile Include="15702.cpp" />
+    <ClCompile Include="1431.cpp" />
+    <ClCompile Include="11663.cpp" />
+    <ClCompile Include="14170.cpp" />
+    <ClCompile Include="3151.cpp" />
+    <ClCompile Include="26072.cpp" />
+    <ClCompile Include="11779.cpp" />
     <ClCompile Include="16236.cpp" />
     <ClCompile Include="1197.cpp" />
   </ItemGroup>
