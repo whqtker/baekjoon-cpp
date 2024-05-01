@@ -11,13 +11,13 @@ int main() {
 	int n, m;
 	cin >> n >> m;
 
-	for (int i = 0;i < m;i++) {
+	for (int i = 0; i < m; i++) {
 		int k;
 		cin >> k;
 
 		int s, e;
 		cin >> s;
-		for (int j = 0;j < k - 1;j++) {
+		for (int j = 0; j < k - 1; j++) {
 			cin >> e;
 			nodes[s].push_back(e);
 			inDegree[e]++;
@@ -26,13 +26,13 @@ int main() {
 	}
 
 	queue<int> q;
-	for (int i = 1;i <= n;i++) {
+	for (int i = 1; i <= n; i++) {
 		if (!inDegree[i])
 			q.push(i);
 	}
 
 	vector<int> ans;
-	for (int i = 1;i <= n;i++) {
+	for (int i = 1; i <= n; i++) {
 		if (q.empty()) {
 			cout << 0;
 			return 0;
@@ -42,7 +42,7 @@ int main() {
 		q.pop();
 		ans.push_back(x);
 
-		for (int j = 0;j < nodes[x].size();j++) {
+		for (int j = 0; j < nodes[x].size(); j++) {
 			int y = nodes[x][j];
 			inDegree[y]--;
 			if (!inDegree[y])
@@ -50,7 +50,7 @@ int main() {
 		}
 	}
 
-	for (int i = 0;i < n;i++) {
+	for (int i = 0; i < n; i++) {
 		cout << ans[i] << "\n";
 	}
 }
