@@ -4,15 +4,14 @@
 
 using namespace std;
 
-int n;
-
-bool cmp(pair<int, int>& a, pair<int, int >& b) {
-	return a.first * n + a.second < b.first * n + b.second;
+bool cmp(pair<long long, long long>& a, pair<long long, long long>& b) {
+	return a.first < b.first;
 }
 
 int main() {
+	int n;
 	cin >> n;
-	vector<pair<int, int>> v;
+	vector<pair<long long, long long>> v;
 	for (int i = 0; i < n; i++) {
 		int x, y;
 		cin >> x >> y;
@@ -22,7 +21,7 @@ int main() {
 	sort(v.begin(), v.end(), cmp);
 
 	long long ans = 0;
-	for (int i = n; i >= 1; i--) {
+	for (int i = 1; i <= n; i++) {
 		ans += v[i - 1].first * i + v[i - 1].second;
 	}
 	cout << ans;
