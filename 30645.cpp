@@ -10,7 +10,7 @@ int main() {
 	int r, c, n;
 	cin >> r >> c >> n;
 	vector<int> v;
-	for (int i = 0;i < n;i++) {
+	for (int i = 0; i < n; i++) {
 		int x;
 		cin >> x;
 		v.push_back(x);
@@ -19,21 +19,25 @@ int main() {
 	sort(v.rbegin(), v.rend());
 
 	int cnt = 0;
-	for (int i = 0;i < r;i++) {
-		for (int j = 0;j < c;j++) {
-			if (i * c + j < n) {
-				if (i == 0) {
-					arr[i][j] = v[i * c + j];
-					cnt++;
-				}
-				else {
-					if (arr[i - 1][j] > v[i * c + j]) {
-						arr[i][j] = v[i * c + j];
-						cnt++;
-					}
-				}
-			}
+	int x = 0, y = 0; // x: 현재 행, y: 현재 열
+	for (int i = 0; i < n; i++) {
+		if (x == 0) {
+			arr[x][y] = v[i];
+			y++;
+			cnt++;
 		}
+		else if (arr[x - 1][y] > v[i]) {
+			arr[x][y] = v[i];
+			y++;
+			cnt++;
+		}
+
+		if (y >= c) {
+			x++;
+			y = 0;
+		}
+		if (x >= r)
+			break;
 	}
 
 	cout << cnt;
