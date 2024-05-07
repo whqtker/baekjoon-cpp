@@ -1,4 +1,5 @@
 #include <iostream>
+#include <vector>
 #include <queue>
 
 using namespace std;
@@ -9,7 +10,7 @@ int main() {
 	while (T--) {
 		int n;
 		cin >> n;
-		priority_queue<int, vector<int>, greater<int>> pq;
+		priority_queue<long long, vector<long long>, greater<long long>> pq;
 		for (int i = 0; i < n; i++) {
 			int x;
 			cin >> x;
@@ -18,9 +19,9 @@ int main() {
 
 		long long ans = 0;
 		while (pq.size() != 1) {
-			int x = pq.top();
+			long long x = pq.top();
 			pq.pop();
-			int y = pq.top();
+			long long y = pq.top();
 			pq.pop();
 			ans += x + y;
 			pq.push(x + y);
