@@ -1,48 +1,54 @@
 #include <iostream>
-#include <stack>
-#include <vector>
 
 using namespace std;
 
-int main() {
-	int t;
-	cin >> t;
-	for (int i = 0; i < t; i++) {
-		int n;
-		cin >> n;
+int arr[100001];
+int visited[100001]; // 0: 방문X, 1: 팀 생성 가능, -1: 팀 생성 불가능
+int n, start;
 
-		vector<int> v;
-		v.push_back(0); // 인덱스 보정
-		for (int j = 0; j < n; j++) {
-			int x;
-			cin >> x;
-			v.push_back(x);
+void dfs(int i) {
+	// 순환: x에서 시작, y가 순환의 시작 => x부터 y 전까지 visited를 -1로 변경
+	// 단 x와 y와 같은 경우 pass
+	// 순환 발생 여부: 접근하려고 하는 사람이 이미 방문한(y) 경우
+
+	if (visited[i]) {
+		if (i == start)
+			return;
+		while (start != i) {
+			visited[start] = -1;
+			start = arr[start];
+		}
+		return;
+	}
+
+	visited[i] = 1;
+	dfs(arr[i]);
+}
+
+int main() {
+	cin.tie(0);
+	ios::sync_with_stdio(0);
+
+	int T;
+	cin >> T;
+	while (T--) {
+		cin >> n;
+		for (int i = 1;i <= n;i++) {
+			cin >> arr[i];
+		}
+
+		for (int i = 1;i <= n;i++) {
+			start = i;
+			if (visited[i] == 0) {
+				dfs(i);
+			}
 		}
 
 		int cnt = 0;
-		vector<int> team(n + 1);
-		for (int j = 1; j <= n; j++) {
-			stack<int> s;
-			s.push(j);
-
-			vector<int> visited(n + 1);
-			visited[j] = 1;
-
-			while (!s.empty()) {
-				int x = s.top();
-				int target = v[x];
-				s.pop();
-
-				// 팀을 찾는 과정
-				if (!visited[target]) {
-					s.push(target);
-					visited[target] = 1;
-				}
-				else if (visited[target] && !team[target]) {
-					cnt++;
-					break;
-				}
-			}
+		for (int i = 1;i <= n;i++) {
+			if (visited[i] != 1)
+				cnt++;
+			visited[i] = 0;
 		}
 
 		cout << cnt << "\n";
