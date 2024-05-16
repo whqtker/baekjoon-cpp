@@ -31,39 +31,38 @@ int main() {
 		bomb.push_back(b);
 	}
 
-	for (int i = 0; i < t; i++) {
-		queue<int> find;
-		find.push(1);
-		find_visited[1] = 1;
-		while (!find.empty()) {
-			int x = find.front();
-			find.pop();
+	queue<int> find;
+	find.push(1);
+	find_visited[1] = 1;
+	while (!find.empty()) {
+		int x = find.front();
+		find.pop();
 
-			for (int j = 0; j < arr[x].size(); j++) {
-				int y = arr[x][j];
-				if (!find_visited[y]) {
-					find_visited[y] = 1;
-					find.push(y);
-				}
-			}
-		}
-
-		queue<int> escape;
-		escape.push(n);
-		escape_visited[n] = 1;
-		while (!escape.empty()) {
-			int x = escape.front();
-			escape.pop();
-
-			for (int j = 0; j < rev_arr[x].size(); j++) {
-				int y = rev_arr[x][j];
-				if (!escape_visited[y]) {
-					escape_visited[y] = 1;
-					escape.push(y);
-				}
+		for (int j = 0; j < arr[x].size(); j++) {
+			int y = arr[x][j];
+			if (!find_visited[y]) {
+				find_visited[y] = 1;
+				find.push(y);
 			}
 		}
 	}
+
+	queue<int> escape;
+	escape.push(n);
+	escape_visited[n] = 1;
+	while (!escape.empty()) {
+		int x = escape.front();
+		escape.pop();
+
+		for (int j = 0; j < rev_arr[x].size(); j++) {
+			int y = rev_arr[x][j];
+			if (!escape_visited[y]) {
+				escape_visited[y] = 1;
+				escape.push(y);
+			}
+		}
+	}
+
 
 	for (int i = 0; i < t; i++) {
 		if (find_visited[bomb[i]] && escape_visited[bomb[i]])
