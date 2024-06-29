@@ -9,6 +9,9 @@ int arr[501][501];
 int dist[501][501];
 
 int main() {
+	cin.tie(0);
+	ios::sync_with_stdio(0);
+
 	int n, m;
 	cin >> n >> m;
 
@@ -27,11 +30,9 @@ int main() {
 	for (int i = 1; i <= n; i++) {
 		for (int j = 1; j <= n; j++) {
 			if (i == j)
-				dist[i][j] = 0;
+				dist[i][j] = min(dist[i][j], 0);
 			else if (arr[i][j])
 				dist[i][j] = arr[i][j];
-			else
-				dist[i][j] = MAX_INF;
 		}
 	}
 
@@ -47,7 +48,7 @@ int main() {
 	}
 
 	// i에서 음의 사이클이 발생하고 1에서 도달할 수 있는 경우
-	for (int i = 2; i <= n; i++) {
+	for (int i = 1; i <= n; i++) {
 		if (dist[i][i] < 0) {
 			if (dist[1][i] != MAX_INF) {
 				cout << -1;
