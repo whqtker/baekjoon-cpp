@@ -27,10 +27,8 @@ int main() {
 
 	sort(sum[0].begin(), sum[0].end());
 	sort(sum[1].begin(), sum[1].end());
-	//sum[0].erase(unique(sum[0].begin(), sum[0].end()), sum[0].end());
-	//sum[1].erase(unique(sum[1].begin(), sum[1].end()), sum[1].end());
 
-	int cnt = 0;
+	long long cnt = 0;
 	for (int i = 0; i < sum[0].size(); i++) {
 		int tar = lower_bound(sum[1].begin(), sum[1].end(), -sum[0][i]) - sum[1].begin();
 		int len = upper_bound(sum[1].begin(), sum[1].end(), -sum[0][i]) - sum[1].begin();
