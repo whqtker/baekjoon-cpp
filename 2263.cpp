@@ -24,6 +24,7 @@ vector<int> recur(int startInorder, int endInorder, int startPostorder, int endP
 
 	// 왼쪽 서브트리
 	vector<int> leftPreorder = recur(startInorder, inorderRootIndex - 1, startPostorder, startPostorder + leftTreeSize - 1);
+
 	// 오른쪽 서브트리
 	vector<int> rightPreorder = recur(inorderRootIndex + 1, endInorder, startPostorder + leftTreeSize, endPostorder - 1);
 
