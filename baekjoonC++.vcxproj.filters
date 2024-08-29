@@ -343,5 +343,6 @@
     <ClCompile Include="13334.cpp" />
     <ClCompile Include="2042.cpp" />
     <ClCompile Include="2357.cpp" />
+    <ClCompile Include="11505.cpp" />
   </ItemGroup>
 </Project>
