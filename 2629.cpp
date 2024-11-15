@@ -12,13 +12,11 @@ int main() {
 	cin >> n;
 	for (int i = 0;i < n;i++) {
 		cin >> weight[i];
-		dp[i][weight[i]] = weight[i];
+		dp[i][weight[i]] = 1;
 	}
 
 
 	for (int i = 1;i < n;i++) {
-		// 현재 추를 놓아 그만큼의 무게를 만들 수 있다.
-		dp[i][weight[i]] = 1;
 		for (int j = 1;j <= 40000;j++) {
 			// 현재 추를 놓을 수 있다면
 			if (weight[i] <= j) {
