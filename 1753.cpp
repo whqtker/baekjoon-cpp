@@ -10,11 +10,11 @@ int main() {
 	int v, e, k;
 	cin >> v >> e >> k;
 
-	vector<pair<int, int>> nodes[20001]; // {가중치, 도착 노드}
+	vector<pair<int, int>> nodes[20001]; // {도착 노드, 가중치}
 	for (int i = 0;i < e;i++) {
 		int x, y, w;
 		cin >> x >> y >> w;
-		nodes[x].push_back({ w,y });
+		nodes[x].push_back({ y,w });
 	}
 
 	vector<int> cost(v + 1);
@@ -37,9 +37,9 @@ int main() {
 			continue;
 
 		for (int i = 0;i < nodes[cur].size();i++) {
-			if (weight + nodes[cur][i].first < cost[nodes[cur][i].second]) {
-				cost[nodes[cur][i].second] = weight + nodes[cur][i].first;
-				pq.push({ weight + nodes[cur][i].first ,nodes[cur][i].second });
+			if (weight + nodes[cur][i].second < cost[nodes[cur][i].first]) {
+				cost[nodes[cur][i].first] = weight + nodes[cur][i].second;
+				pq.push({ weight + nodes[cur][i].second ,nodes[cur][i].first });
 			}
 		}
 	}
