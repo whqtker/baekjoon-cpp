@@ -1,4 +1,5 @@
-# Baekjoon Online Judge 
+# Baekjoon Online Judge
+![test](https://github.com/whqtker/baekjoon_cpp/actions/workflows/update-readme.yml/badge.svg)
 
 # 문제 풀이
 
