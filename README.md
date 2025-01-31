@@ -73,6 +73,7 @@
 | 1520 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [내리막 길](https://www.acmicpc.net/problem/1520) | [풀이](./solutions/1520.cpp) | [해설]() |
 | 1541 | <img src="https://static.solved.ac/tier_small/9.svg" width="20" height="20"> [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | [풀이](./solutions/1541.cpp) | [해설]() |
 | 1543 | <img src="https://static.solved.ac/tier_small/6.svg" width="20" height="20"> [문서 검색](https://www.acmicpc.net/problem/1543) | [풀이](./solutions/1543.cpp) | [해설]() |
+| 1546 | <img src="https://static.solved.ac/tier_small/5.svg" width="20" height="20"> [평균](https://www.acmicpc.net/problem/1546) | [풀이](./solutions/1546.cpp) | [해설]() |
 | 1562 | <img src="https://static.solved.ac/tier_small/15.svg" width="20" height="20"> [계단 수](https://www.acmicpc.net/problem/1562) | [풀이](./solutions/1562.cpp) | [해설]() |
 | 1598 | <img src="https://static.solved.ac/tier_small/3.svg" width="20" height="20"> [꼬리를 무는 숫자 나열](https://www.acmicpc.net/problem/1598) | [풀이](./solutions/1598.cpp) | [해설]() |
 | 1600 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) | [풀이](./solutions/1600.cpp) | [해설]() |
@@ -90,6 +91,8 @@
 | 1719 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [택배](https://www.acmicpc.net/problem/1719) | [풀이](./solutions/1719.cpp) | [해설]() |
 | 1725 | <img src="https://static.solved.ac/tier_small/16.svg" width="20" height="20"> [히스토그램](https://www.acmicpc.net/problem/1725) | [풀이](./solutions/1725.cpp) | [해설]() |
 | 1744 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [수 묶기](https://www.acmicpc.net/problem/1744) | [풀이](./solutions/1744.cpp) | [해설]() |
+| 1747 | <img src="https://static.solved.ac/tier_small/10.svg" width="20" height="20"> [소수&팰린드롬](https://www.acmicpc.net/problem/1747) | [풀이](./solutions/1747.cpp) | [해설]() |
+| 1748 | <img src="https://static.solved.ac/tier_small/7.svg" width="20" height="20"> [수 이어 쓰기 1](https://www.acmicpc.net/problem/1748) | [풀이](./solutions/1748.cpp) | [해설]() |
 | 1753 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [최단경로](https://www.acmicpc.net/problem/1753) | [풀이](./solutions/1753.cpp) | [해설]() |
 | 1758 | <img src="https://static.solved.ac/tier_small/7.svg" width="20" height="20"> [알바생 강호](https://www.acmicpc.net/problem/1758) | [풀이](./solutions/1758.cpp) | [해설]() |
 | 1764 | <img src="https://static.solved.ac/tier_small/7.svg" width="20" height="20"> [듣보잡](https://www.acmicpc.net/problem/1764) | [풀이](./solutions/1764.cpp) | [해설]() |
