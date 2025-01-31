@@ -41,7 +41,7 @@
 | 1158 | <img src="https://static.solved.ac/tier_small/7.svg" width="20" height="20"> [요세푸스 문제](https://www.acmicpc.net/problem/1158) | [풀이](./solutions/1158.cpp) | [해설]() |
 | 1167 | <img src="https://static.solved.ac/tier_small/14.svg" width="20" height="20"> [트리의 지름](https://www.acmicpc.net/problem/1167) | [풀이](./solutions/1167.cpp) | [해설]() |
 | 1173 | <img src="https://static.solved.ac/tier_small/4.svg" width="20" height="20"> [운동](https://www.acmicpc.net/problem/1173) | [풀이](./solutions/1173.cpp) | [해설]() |
-| 1194 | <img src="https://static.solved.ac/tier_small/15.svg" width="20" height="20"> [달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194) | [풀이](./solutions/1194.cpp) | [해설]() |
+| 1194 | <img src="https://static.solved.ac/tier_small/15.svg" width="20" height="20"> [달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194) | [풀이](./solutions/1194.cpp) | [해설](https://whqkter.tistory.com/66) |
 | 1197 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) | [풀이](./solutions/1197.cpp) | [해설]() |
 | 1202 | <img src="https://static.solved.ac/tier_small/14.svg" width="20" height="20"> [보석 도둑](https://www.acmicpc.net/problem/1202) | [풀이](./solutions/1202.cpp) | [해설]() |
 | 1208 | <img src="https://static.solved.ac/tier_small/15.svg" width="20" height="20"> [부분수열의 합 2](https://www.acmicpc.net/problem/1208) | [풀이](./solutions/1208.cpp) | [해설]() |
@@ -53,7 +53,7 @@
 | 1264 | <img src="https://static.solved.ac/tier_small/2.svg" width="20" height="20"> [모음의 개수](https://www.acmicpc.net/problem/1264) | [풀이](./solutions/1264.cpp) | [해설]() |
 | 1268 | <img src="https://static.solved.ac/tier_small/6.svg" width="20" height="20"> [임시 반장 정하기](https://www.acmicpc.net/problem/1268) | [풀이](./solutions/1268.cpp) | [해설]() |
 | 1308 | <img src="https://static.solved.ac/tier_small/6.svg" width="20" height="20"> [D-Day](https://www.acmicpc.net/problem/1308) | [풀이](./solutions/1308.cpp) | [해설]() |
-| 1328 | <img src="https://static.solved.ac/tier_small/16.svg" width="20" height="20"> [고층 빌딩](https://www.acmicpc.net/problem/1328) | [풀이](./solutions/1328.cpp) | [해설]() |
+| 1328 | <img src="https://static.solved.ac/tier_small/16.svg" width="20" height="20"> [고층 빌딩](https://www.acmicpc.net/problem/1328) | [풀이](./solutions/1328.cpp) | [해설](https://whqkter.tistory.com/71) |
 | 1333 | <img src="https://static.solved.ac/tier_small/5.svg" width="20" height="20"> [부재중 전화](https://www.acmicpc.net/problem/1333) | [풀이](./solutions/1333.cpp) | [해설]() |
 | 1339 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [단어 수학](https://www.acmicpc.net/problem/1339) | [풀이](./solutions/1339.cpp) | [해설]() |
 | 1358 | <img src="https://static.solved.ac/tier_small/7.svg" width="20" height="20"> [하키](https://www.acmicpc.net/problem/1358) | [풀이](./solutions/1358.cpp) | [해설]() |
@@ -78,11 +78,11 @@
 | 1562 | <img src="https://static.solved.ac/tier_small/15.svg" width="20" height="20"> [계단 수](https://www.acmicpc.net/problem/1562) | [풀이](./solutions/1562.cpp) | [해설]() |
 | 1598 | <img src="https://static.solved.ac/tier_small/3.svg" width="20" height="20"> [꼬리를 무는 숫자 나열](https://www.acmicpc.net/problem/1598) | [풀이](./solutions/1598.cpp) | [해설]() |
 | 1600 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) | [풀이](./solutions/1600.cpp) | [해설]() |
-| 1613 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [역사](https://www.acmicpc.net/problem/1613) | [풀이](./solutions/1613.cpp) | [해설]() |
+| 1613 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [역사](https://www.acmicpc.net/problem/1613) | [풀이](./solutions/1613.cpp) | [해설](https://whqkter.tistory.com/65) |
 | 1620 | <img src="https://static.solved.ac/tier_small/7.svg" width="20" height="20"> [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | [풀이](./solutions/1620.cpp) | [해설]() |
 | 1621 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [조삼모사](https://www.acmicpc.net/problem/1621) | [풀이](./solutions/1621.cpp) | [해설]() |
 | 1629 | <img src="https://static.solved.ac/tier_small/10.svg" width="20" height="20"> [곱셈](https://www.acmicpc.net/problem/1629) | [풀이](./solutions/1629.cpp) | [해설]() |
-| 1640 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [동전 뒤집기](https://www.acmicpc.net/problem/1640) | [풀이](./solutions/1640.cpp) | [해설]() |
+| 1640 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [동전 뒤집기](https://www.acmicpc.net/problem/1640) | [풀이](./solutions/1640.cpp) | [해설](https://whqkter.tistory.com/64) |
 | 1644 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [소수의 연속합](https://www.acmicpc.net/problem/1644) | [풀이](./solutions/1644.cpp) | [해설]() |
 | 1647 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [도시 분할 계획](https://www.acmicpc.net/problem/1647) | [풀이](./solutions/1647.cpp) | [해설]() |
 | 1654 | <img src="https://static.solved.ac/tier_small/9.svg" width="20" height="20"> [랜선 자르기](https://www.acmicpc.net/problem/1654) | [풀이](./solutions/1654.cpp) | [해설]() |
@@ -196,7 +196,7 @@
 | 3197 | <img src="https://static.solved.ac/tier_small/16.svg" width="20" height="20"> [백조의 호수](https://www.acmicpc.net/problem/3197) | [풀이](./solutions/3197.cpp) | [해설]() |
 | 3273 | <img src="https://static.solved.ac/tier_small/8.svg" width="20" height="20"> [두 수의 합](https://www.acmicpc.net/problem/3273) | [풀이](./solutions/3273.cpp) | [해설]() |
 | 3460 | <img src="https://static.solved.ac/tier_small/3.svg" width="20" height="20"> [이진수](https://www.acmicpc.net/problem/3460) | [풀이](./solutions/3460.cpp) | [해설]() |
-| 3665 | <img src="https://static.solved.ac/tier_small/15.svg" width="20" height="20"> [최종 순위](https://www.acmicpc.net/problem/3665) | [풀이](./solutions/3665.cpp) | [해설]() |
+| 3665 | <img src="https://static.solved.ac/tier_small/15.svg" width="20" height="20"> [최종 순위](https://www.acmicpc.net/problem/3665) | [풀이](./solutions/3665.cpp) | [해설](https://whqkter.tistory.com/68) |
 | 3933 | <img src="https://static.solved.ac/tier_small/11.svg" width="20" height="20"> [라그랑주의 네 제곱수 정리](https://www.acmicpc.net/problem/3933) | [풀이](./solutions/3933.cpp) | [해설]() |
 | 4179 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [불!](https://www.acmicpc.net/problem/4179) | [풀이](./solutions/4179.cpp) | [해설]() |
 | 4470 | <img src="https://static.solved.ac/tier_small/2.svg" width="20" height="20"> [줄번호](https://www.acmicpc.net/problem/4470) | [풀이](./solutions/4470.cpp) | [해설]() |
@@ -231,7 +231,7 @@
 | 9252 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [LCS 2](https://www.acmicpc.net/problem/9252) | [풀이](./solutions/9252.cpp) | [해설]() |
 | 9325 | <img src="https://static.solved.ac/tier_small/3.svg" width="20" height="20"> [얼마?](https://www.acmicpc.net/problem/9325) | [풀이](./solutions/9325.cpp) | [해설]() |
 | 9328 | <img src="https://static.solved.ac/tier_small/15.svg" width="20" height="20"> [열쇠](https://www.acmicpc.net/problem/9328) | [풀이](./solutions/9328.cpp) | [해설]() |
-| 9370 | <img src="https://static.solved.ac/tier_small/14.svg" width="20" height="20"> [미확인 도착지](https://www.acmicpc.net/problem/9370) | [풀이](./solutions/9370.cpp) | [해설]() |
+| 9370 | <img src="https://static.solved.ac/tier_small/14.svg" width="20" height="20"> [미확인 도착지](https://www.acmicpc.net/problem/9370) | [풀이](./solutions/9370.cpp) | [해설](https://whqkter.tistory.com/70) |
 | 9375 | <img src="https://static.solved.ac/tier_small/8.svg" width="20" height="20"> [패션왕 신해빈](https://www.acmicpc.net/problem/9375) | [풀이](./solutions/9375.cpp) | [해설]() |
 | 9465 | <img src="https://static.solved.ac/tier_small/10.svg" width="20" height="20"> [스티커](https://www.acmicpc.net/problem/9465) | [풀이](./solutions/9465.cpp) | [해설]() |
 | 9466 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [텀 프로젝트](https://www.acmicpc.net/problem/9466) | [풀이](./solutions/9466.cpp) | [해설]() |
@@ -352,7 +352,7 @@
 | 17143 | <img src="https://static.solved.ac/tier_small/15.svg" width="20" height="20"> [낚시왕](https://www.acmicpc.net/problem/17143) | [풀이](./solutions/17143.cpp) | [해설]() |
 | 17144 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [미세먼지 안녕!](https://www.acmicpc.net/problem/17144) | [풀이](./solutions/17144.cpp) | [해설]() |
 | 17219 | <img src="https://static.solved.ac/tier_small/7.svg" width="20" height="20"> [비밀번호 찾기](https://www.acmicpc.net/problem/17219) | [풀이](./solutions/17219.cpp) | [해설]() |
-| 17298 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [오큰수](https://www.acmicpc.net/problem/17298) | [풀이](./solutions/17298.cpp) | [해설]() |
+| 17298 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [오큰수](https://www.acmicpc.net/problem/17298) | [풀이](./solutions/17298.cpp) | [해설](https://whqkter.tistory.com/63) |
 | 17299 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [오등큰수](https://www.acmicpc.net/problem/17299) | [풀이](./solutions/17299.cpp) | [해설]() |
 | 17387 | <img src="https://static.solved.ac/tier_small/14.svg" width="20" height="20"> [선분 교차 2](https://www.acmicpc.net/problem/17387) | [풀이](./solutions/17387.cpp) | [해설]() |
 | 17404 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [RGB거리 2](https://www.acmicpc.net/problem/17404) | [풀이](./solutions/17404.cpp) | [해설]() |
