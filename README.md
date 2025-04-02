@@ -16,7 +16,7 @@
 | 1011 | <img src="https://static.solved.ac/tier_small/11.svg" width="20" height="20"> [Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011) | [풀이](./solutions/1011.cpp) | [해설]() |
 | 1012 | <img src="https://static.solved.ac/tier_small/9.svg" width="20" height="20"> [유기농 배추](https://www.acmicpc.net/problem/1012) | [풀이](./solutions/1012.cpp) | [해설]() |
 | 1015 | <img src="https://static.solved.ac/tier_small/7.svg" width="20" height="20"> [수열 정렬](https://www.acmicpc.net/problem/1015) | [풀이](./solutions/1015.cpp) | [해설]() |
-| 1016 | <img src="https://static.solved.ac/tier_small/15.svg" width="20" height="20"> [제곱 ㄴㄴ 수](https://www.acmicpc.net/problem/1016) | [풀이](./solutions/1016.cpp) | [해설]() |
+| 1016 | <img src="https://static.solved.ac/tier_small/15.svg" width="20" height="20"> [제곱 ㄴㄴ 수](https://www.acmicpc.net/problem/1016) | [풀이](./solutions/1016.cpp) | [해설](https://whqtker.github.io/posts/%EB%B0%B1%EC%A4%80-1016/) |
 | 1018 | <img src="https://static.solved.ac/tier_small/7.svg" width="20" height="20"> [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | [풀이](./solutions/1018.cpp) | [해설]() |
 | 1021 | <img src="https://static.solved.ac/tier_small/8.svg" width="20" height="20"> [회전하는 큐](https://www.acmicpc.net/problem/1021) | [풀이](./solutions/1021.cpp) | [해설]() |
 | 1026 | <img src="https://static.solved.ac/tier_small/7.svg" width="20" height="20"> [보물](https://www.acmicpc.net/problem/1026) | [풀이](./solutions/1026.cpp) | [해설]() |
