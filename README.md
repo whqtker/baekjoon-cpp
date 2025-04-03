@@ -70,6 +70,7 @@
 | 1463 | <img src="https://static.solved.ac/tier_small/8.svg" width="20" height="20"> [1로 만들기](https://www.acmicpc.net/problem/1463) | [풀이](./solutions/1463.cpp) | [해설]() |
 | 1485 | <img src="https://static.solved.ac/tier_small/8.svg" width="20" height="20"> [정사각형](https://www.acmicpc.net/problem/1485) | [풀이](./solutions/1485.cpp) | [해설]() |
 | 1504 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [특정한 최단 경로](https://www.acmicpc.net/problem/1504) | [풀이](./solutions/1504.cpp) | [해설]() |
+| 1508 | <img src="https://static.solved.ac/tier_small/14.svg" width="20" height="20"> [레이스](https://www.acmicpc.net/problem/1508) | [풀이](./solutions/1508.cpp) | [해설]() |
 | 1509 | <img src="https://static.solved.ac/tier_small/15.svg" width="20" height="20"> [팰린드롬 분할](https://www.acmicpc.net/problem/1509) | [풀이](./solutions/1509.cpp) | [해설]() |
 | 1516 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [게임 개발](https://www.acmicpc.net/problem/1516) | [풀이](./solutions/1516.cpp) | [해설]() |
 | 1520 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [내리막 길](https://www.acmicpc.net/problem/1520) | [풀이](./solutions/1520.cpp) | [해설]() |
