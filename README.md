@@ -232,7 +232,7 @@
 | 9251 | <img src="https://static.solved.ac/tier_small/11.svg" width="20" height="20"> [LCS](https://www.acmicpc.net/problem/9251) | [풀이](./solutions/9251.cpp) | [해설]() |
 | 9252 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [LCS 2](https://www.acmicpc.net/problem/9252) | [풀이](./solutions/9252.cpp) | [해설]() |
 | 9325 | <img src="https://static.solved.ac/tier_small/3.svg" width="20" height="20"> [얼마?](https://www.acmicpc.net/problem/9325) | [풀이](./solutions/9325.cpp) | [해설]() |
-| 9328 | <img src="https://static.solved.ac/tier_small/15.svg" width="20" height="20"> [열쇠](https://www.acmicpc.net/problem/9328) | [풀이](./solutions/9328.cpp) | [해설]() |
+| 9328 | <img src="https://static.solved.ac/tier_small/15.svg" width="20" height="20"> [열쇠](https://www.acmicpc.net/problem/9328) | [풀이](./solutions/9328.cpp) | [해설](https://whqtker.github.io/posts/%EB%B0%B1%EC%A4%80-9328/) |
 | 9370 | <img src="https://static.solved.ac/tier_small/14.svg" width="20" height="20"> [미확인 도착지](https://www.acmicpc.net/problem/9370) | [풀이](./solutions/9370.cpp) | [해설](https://whqkter.tistory.com/70) |
 | 9375 | <img src="https://static.solved.ac/tier_small/8.svg" width="20" height="20"> [패션왕 신해빈](https://www.acmicpc.net/problem/9375) | [풀이](./solutions/9375.cpp) | [해설]() |
 | 9465 | <img src="https://static.solved.ac/tier_small/10.svg" width="20" height="20"> [스티커](https://www.acmicpc.net/problem/9465) | [풀이](./solutions/9465.cpp) | [해설]() |
