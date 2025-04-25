@@ -35,6 +35,7 @@
 | 1103 | <img src="https://static.solved.ac/tier_small/14.svg" width="20" height="20"> [게임](https://www.acmicpc.net/problem/1103) | [풀이](./solutions/1103.cpp) | [해설]() |
 | 1106 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [호텔](https://www.acmicpc.net/problem/1106) | [풀이](./solutions/1106.cpp) | [해설]() |
 | 1107 | <img src="https://static.solved.ac/tier_small/11.svg" width="20" height="20"> [리모컨](https://www.acmicpc.net/problem/1107) | [풀이](./solutions/1107.cpp) | [해설]() |
+| 1138 | <img src="https://static.solved.ac/tier_small/9.svg" width="20" height="20"> [한 줄로 서기](https://www.acmicpc.net/problem/1138) | [풀이](./solutions/1138.cpp) | [해설]() |
 | 1145 | <img src="https://static.solved.ac/tier_small/5.svg" width="20" height="20"> [적어도 대부분의 배수](https://www.acmicpc.net/problem/1145) | [풀이](./solutions/1145.cpp) | [해설]() |
 | 1149 | <img src="https://static.solved.ac/tier_small/10.svg" width="20" height="20"> [RGB거리](https://www.acmicpc.net/problem/1149) | [풀이](./solutions/1149.cpp) | [해설]() |
 | 1152 | <img src="https://static.solved.ac/tier_small/4.svg" width="20" height="20"> [단어의 개수](https://www.acmicpc.net/problem/1152) | [풀이](./solutions/1152.cpp) | [해설]() |
@@ -392,3 +393,4 @@
 | 28707 | <img src="https://static.solved.ac/tier_small/15.svg" width="20" height="20"> [배열 정렬](https://www.acmicpc.net/problem/28707) | [풀이](./solutions/28707.cpp) | [해설]() |
 | 30645 | <img src="https://static.solved.ac/tier_small/9.svg" width="20" height="20"> [인형 전시](https://www.acmicpc.net/problem/30645) | [풀이](./solutions/30645.cpp) | [해설]() |
 | 31413 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [입대](https://www.acmicpc.net/problem/31413) | [풀이](./solutions/31413.cpp) | [해설]() |
+| 32293 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [ABB to BA (Hard)](https://www.acmicpc.net/problem/32293) | [풀이](./solutions/32293.cpp) | [해설]() |
