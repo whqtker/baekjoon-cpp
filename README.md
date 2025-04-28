@@ -143,6 +143,7 @@
 | 2178 | <img src="https://static.solved.ac/tier_small/10.svg" width="20" height="20"> [미로 탐색](https://www.acmicpc.net/problem/2178) | [풀이](./solutions/2178.cpp) | [해설]() |
 | 2193 | <img src="https://static.solved.ac/tier_small/8.svg" width="20" height="20"> [이친수](https://www.acmicpc.net/problem/2193) | [풀이](./solutions/2193.cpp) | [해설]() |
 | 2206 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | [풀이](./solutions/2206.cpp) | [해설]() |
+| 2211 | <img src="https://static.solved.ac/tier_small/14.svg" width="20" height="20"> [네트워크 복구](https://www.acmicpc.net/problem/2211) | [풀이](./solutions/2211.cpp) | [해설]() |
 | 2217 | <img src="https://static.solved.ac/tier_small/7.svg" width="20" height="20"> [로프](https://www.acmicpc.net/problem/2217) | [풀이](./solutions/2217.cpp) | [해설]() |
 | 2239 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [스도쿠](https://www.acmicpc.net/problem/2239) | [풀이](./solutions/2239.cpp) | [해설]() |
 | 2240 | <img src="https://static.solved.ac/tier_small/11.svg" width="20" height="20"> [자두나무](https://www.acmicpc.net/problem/2240) | [풀이](./solutions/2240.cpp) | [해설]() |
