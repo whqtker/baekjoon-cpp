@@ -89,6 +89,7 @@
 | 1644 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [소수의 연속합](https://www.acmicpc.net/problem/1644) | [풀이](./solutions/1644.cpp) | [해설]() |
 | 1647 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [도시 분할 계획](https://www.acmicpc.net/problem/1647) | [풀이](./solutions/1647.cpp) | [해설]() |
 | 1654 | <img src="https://static.solved.ac/tier_small/9.svg" width="20" height="20"> [랜선 자르기](https://www.acmicpc.net/problem/1654) | [풀이](./solutions/1654.cpp) | [해설]() |
+| 1655 | <img src="https://static.solved.ac/tier_small/14.svg" width="20" height="20"> [가운데를 말해요](https://www.acmicpc.net/problem/1655) | [풀이](./solutions/1655.cpp) | [해설]() |
 | 1676 | <img src="https://static.solved.ac/tier_small/6.svg" width="20" height="20"> [팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676) | [풀이](./solutions/1676.cpp) | [해설]() |
 | 1697 | <img src="https://static.solved.ac/tier_small/10.svg" width="20" height="20"> [숨바꼭질](https://www.acmicpc.net/problem/1697) | [풀이](./solutions/1697.cpp) | [해설]() |
 | 1699 | <img src="https://static.solved.ac/tier_small/9.svg" width="20" height="20"> [제곱수의 합](https://www.acmicpc.net/problem/1699) | [풀이](./solutions/1699.cpp) | [해설]() |
