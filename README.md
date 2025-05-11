@@ -136,6 +136,7 @@
 | 2138 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [전구와 스위치](https://www.acmicpc.net/problem/2138) | [풀이](./solutions/2138.cpp) | [해설]() |
 | 2143 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [두 배열의 합](https://www.acmicpc.net/problem/2143) | [풀이](./solutions/2143.cpp) | [해설]() |
 | 2146 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [다리 만들기](https://www.acmicpc.net/problem/2146) | [풀이](./solutions/2146.cpp) | [해설]() |
+| 2150 | <img src="https://static.solved.ac/tier_small/16.svg" width="20" height="20"> [Strongly Connected Component](https://www.acmicpc.net/problem/2150) | [풀이](./solutions/2150.cpp) | [해설]() |
 | 2156 | <img src="https://static.solved.ac/tier_small/10.svg" width="20" height="20"> [포도주 시식](https://www.acmicpc.net/problem/2156) | [풀이](./solutions/2156.cpp) | [해설]() |
 | 2162 | <img src="https://static.solved.ac/tier_small/16.svg" width="20" height="20"> [선분 그룹](https://www.acmicpc.net/problem/2162) | [풀이](./solutions/2162.cpp) | [해설]() |
 | 2166 | <img src="https://static.solved.ac/tier_small/11.svg" width="20" height="20"> [다각형의 면적](https://www.acmicpc.net/problem/2166) | [풀이](./solutions/2166.cpp) | [해설]() |
