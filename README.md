@@ -232,6 +232,7 @@
 | 9019 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [DSLR](https://www.acmicpc.net/problem/9019) | [풀이](./solutions/9019.cpp) | [해설]() |
 | 9076 | <img src="https://static.solved.ac/tier_small/4.svg" width="20" height="20"> [점수 집계](https://www.acmicpc.net/problem/9076) | [풀이](./solutions/9076.cpp) | [해설]() |
 | 9084 | <img src="https://static.solved.ac/tier_small/11.svg" width="20" height="20"> [동전](https://www.acmicpc.net/problem/9084) | [풀이](./solutions/9084.cpp) | [해설]() |
+| 9086 | <img src="https://static.solved.ac/tier_small/1.svg" width="20" height="20"> [문자열](https://www.acmicpc.net/problem/9086) | [풀이](./solutions/9086.cpp) | [해설](https://whqtker.github.io/posts/백준-9086/) |
 | 9205 | <img src="https://static.solved.ac/tier_small/11.svg" width="20" height="20"> [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) | [풀이](./solutions/9205.cpp) | [해설]() |
 | 9251 | <img src="https://static.solved.ac/tier_small/11.svg" width="20" height="20"> [LCS](https://www.acmicpc.net/problem/9251) | [풀이](./solutions/9251.cpp) | [해설]() |
 | 9252 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [LCS 2](https://www.acmicpc.net/problem/9252) | [풀이](./solutions/9252.cpp) | [해설]() |
