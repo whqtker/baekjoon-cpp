@@ -42,7 +42,7 @@ async function updateReadme() {
                 const solvedacResponse = await axios.get(`https://solved.ac/api/v3/problem/show?problemId=${problemId}`);
                 const problem = solvedacResponse.data;
                 
-                const newRow = `| ${problemId} | <img src="https://static.solved.ac/tier_small/${problem.level}.svg" width="20" height="20"> [${problem.titleKo}](https://www.acmicpc.net/problem/${problemId}) | [풀이](./solutions/${problemId}.cpp) | [해설]() |`;
+                const newRow = `| ${problemId} | <img src="https://static.solved.ac/tier_small/${problem.level}.svg" width="20" height="20"> [${problem.titleKo}](https://www.acmicpc.net/problem/${problemId}) | [풀이](./solutions/${problemId}.cpp) | [해설](https://whqtker.github.io/posts/백준-${problemId}/) |`;
                 tableRows.push(newRow);
                 console.log(`문제 ${problemId} 추가됨`);
             } catch (error) {
