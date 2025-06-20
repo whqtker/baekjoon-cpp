@@ -262,6 +262,7 @@
 | 10830 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [행렬 제곱](https://www.acmicpc.net/problem/10830) | [풀이](./solutions/10830.cpp) | [해설](https://whqtker.github.io/posts/백준-10830/) |
 | 10844 | <img src="https://static.solved.ac/tier_small/10.svg" width="20" height="20"> [쉬운 계단 수](https://www.acmicpc.net/problem/10844) | [풀이](./solutions/10844.cpp) | [해설](https://whqtker.github.io/posts/백준-10844/) |
 | 10942 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [팰린드롬?](https://www.acmicpc.net/problem/10942) | [풀이](./solutions/10942.cpp) | [해설](https://whqtker.github.io/posts/백준-10942/) |
+| 10971 | <img src="https://static.solved.ac/tier_small/9.svg" width="20" height="20"> [외판원 순회 2](https://www.acmicpc.net/problem/10971) | [풀이](./solutions/10971.cpp) | [해설](https://whqtker.github.io/posts/백준-10971/) |
 | 10973 | <img src="https://static.solved.ac/tier_small/8.svg" width="20" height="20"> [이전 순열](https://www.acmicpc.net/problem/10973) | [풀이](./solutions/10973.cpp) | [해설](https://whqtker.github.io/posts/백준-10973/) |
 | 10984 | <img src="https://static.solved.ac/tier_small/3.svg" width="20" height="20"> [내 학점을 구해줘](https://www.acmicpc.net/problem/10984) | [풀이](./solutions/10984.cpp) | [해설](https://whqtker.github.io/posts/백준-10984/) |
 | 10989 | <img src="https://static.solved.ac/tier_small/5.svg" width="20" height="20"> [수 정렬하기 3](https://www.acmicpc.net/problem/10989) | [풀이](./solutions/10989.cpp) | [해설](https://whqtker.github.io/posts/백준-10989/) |
