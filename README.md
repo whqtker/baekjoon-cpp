@@ -118,6 +118,7 @@
 | 1927 | <img src="https://static.solved.ac/tier_small/9.svg" width="20" height="20"> [최소 힙](https://www.acmicpc.net/problem/1927) | [풀이](./solutions/1927.cpp) | [해설](https://whqtker.github.io/posts/백준-1927/) |
 | 1931 | <img src="https://static.solved.ac/tier_small/11.svg" width="20" height="20"> [회의실 배정](https://www.acmicpc.net/problem/1931) | [풀이](./solutions/1931.cpp) | [해설](https://whqtker.github.io/posts/백준-1931/) |
 | 1932 | <img src="https://static.solved.ac/tier_small/10.svg" width="20" height="20"> [정수 삼각형](https://www.acmicpc.net/problem/1932) | [풀이](./solutions/1932.cpp) | [해설](https://whqtker.github.io/posts/백준-1932/) |
+| 1938 | <img src="https://static.solved.ac/tier_small/14.svg" width="20" height="20"> [통나무 옮기기](https://www.acmicpc.net/problem/1938) | [풀이](./solutions/1938.cpp) | [해설](https://whqtker.github.io/posts/백준-1938/) |
 | 1939 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [중량제한](https://www.acmicpc.net/problem/1939) | [풀이](./solutions/1939.cpp) | [해설](https://whqtker.github.io/posts/백준-1939/) |
 | 1941 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [소문난 칠공주](https://www.acmicpc.net/problem/1941) | [풀이](./solutions/1941.cpp) | [해설](https://whqtker.github.io/posts/백준-1941/) |
 | 1943 | <img src="https://static.solved.ac/tier_small/14.svg" width="20" height="20"> [동전 분배](https://www.acmicpc.net/problem/1943) | [풀이](./solutions/1943.cpp) | [해설](https://whqtker.github.io/posts/백준-1943/) |
@@ -215,6 +216,7 @@
 | 5176 | <img src="https://static.solved.ac/tier_small/4.svg" width="20" height="20"> [대회 자리](https://www.acmicpc.net/problem/5176) | [풀이](./solutions/5176.cpp) | [해설](https://whqtker.github.io/posts/백준-5176/) |
 | 5355 | <img src="https://static.solved.ac/tier_small/4.svg" width="20" height="20"> [화성 수학](https://www.acmicpc.net/problem/5355) | [풀이](./solutions/5355.cpp) | [해설](https://whqtker.github.io/posts/백준-5355/) |
 | 5427 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [불](https://www.acmicpc.net/problem/5427) | [풀이](./solutions/5427.cpp) | [해설](https://whqtker.github.io/posts/백준-5427/) |
+| 5430 | <img src="https://static.solved.ac/tier_small/11.svg" width="20" height="20"> [AC](https://www.acmicpc.net/problem/5430) | [풀이](./solutions/5430.cpp) | [해설](https://whqtker.github.io/posts/백준-5430/) |
 | 5525 | <img src="https://static.solved.ac/tier_small/10.svg" width="20" height="20"> [IOIOI](https://www.acmicpc.net/problem/5525) | [풀이](./solutions/5525.cpp) | [해설](https://whqtker.github.io/posts/백준-5525/) |
 | 5541 | <img src="https://static.solved.ac/tier_small/17.svg" width="20" height="20"> [釘 (Nails)](https://www.acmicpc.net/problem/5541) | [풀이](./solutions/5541.cpp) | [해설](https://whqtker.github.io/posts/백준-5541/) |
 | 5639 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [이진 검색 트리](https://www.acmicpc.net/problem/5639) | [풀이](./solutions/5639.cpp) | [해설](https://whqtker.github.io/posts/백준-5639/) |
