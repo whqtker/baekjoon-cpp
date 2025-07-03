@@ -227,6 +227,7 @@
 | 7513 | <img src="https://static.solved.ac/tier_small/5.svg" width="20" height="20"> [준살 프로그래밍 대회](https://www.acmicpc.net/problem/7513) | [풀이](./solutions/7513.cpp) | [해설](https://whqtker.github.io/posts/백준-7513/) |
 | 7562 | <img src="https://static.solved.ac/tier_small/10.svg" width="20" height="20"> [나이트의 이동](https://www.acmicpc.net/problem/7562) | [풀이](./solutions/7562.cpp) | [해설](https://whqtker.github.io/posts/백준-7562/) |
 | 7569 | <img src="https://static.solved.ac/tier_small/11.svg" width="20" height="20"> [토마토](https://www.acmicpc.net/problem/7569) | [풀이](./solutions/7569.cpp) | [해설](https://whqtker.github.io/posts/백준-7569/) |
+| 7570 | <img src="https://static.solved.ac/tier_small/14.svg" width="20" height="20"> [줄 세우기](https://www.acmicpc.net/problem/7570) | [풀이](./solutions/7570.cpp) | [해설](https://whqtker.github.io/posts/백준-7570/) |
 | 7576 | <img src="https://static.solved.ac/tier_small/11.svg" width="20" height="20"> [토마토](https://www.acmicpc.net/problem/7576) | [풀이](./solutions/7576.cpp) | [해설](https://whqtker.github.io/posts/백준-7576/) |
 | 7579 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [앱](https://www.acmicpc.net/problem/7579) | [풀이](./solutions/7579.cpp) | [해설](https://whqtker.github.io/posts/백준-7579/) |
 | 7662 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) | [풀이](./solutions/7662.cpp) | [해설](https://whqtker.github.io/posts/백준-7662/) |
