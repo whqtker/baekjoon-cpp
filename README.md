@@ -148,6 +148,7 @@
 | 2206 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | [풀이](./solutions/2206.cpp) | [해설](https://whqtker.github.io/posts/백준-2206/) |
 | 2211 | <img src="https://static.solved.ac/tier_small/14.svg" width="20" height="20"> [네트워크 복구](https://www.acmicpc.net/problem/2211) | [풀이](./solutions/2211.cpp) | [해설](https://whqtker.github.io/posts/백준-2211/) |
 | 2217 | <img src="https://static.solved.ac/tier_small/7.svg" width="20" height="20"> [로프](https://www.acmicpc.net/problem/2217) | [풀이](./solutions/2217.cpp) | [해설](https://whqtker.github.io/posts/백준-2217/) |
+| 2228 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [구간 나누기](https://www.acmicpc.net/problem/2228) | [풀이](./solutions/2228.cpp) | [해설](https://whqtker.github.io/posts/백준-2228/) |
 | 2239 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [스도쿠](https://www.acmicpc.net/problem/2239) | [풀이](./solutions/2239.cpp) | [해설](https://whqtker.github.io/posts/백준-2239/) |
 | 2240 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [자두나무](https://www.acmicpc.net/problem/2240) | [풀이](./solutions/2240.cpp) | [해설](https://whqtker.github.io/posts/백준-2240/) |
 | 2252 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [줄 세우기](https://www.acmicpc.net/problem/2252) | [풀이](./solutions/2252.cpp) | [해설](https://whqtker.github.io/posts/백준-2252/) |
