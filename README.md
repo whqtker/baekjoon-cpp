@@ -31,6 +31,7 @@
 | 1075 | <img src="https://static.solved.ac/tier_small/4.svg" width="20" height="20"> [나누기](https://www.acmicpc.net/problem/1075) | [풀이](./solutions/1075.cpp) | [해설](https://whqtker.github.io/posts/백준-1075/) |
 | 1076 | <img src="https://static.solved.ac/tier_small/4.svg" width="20" height="20"> [저항](https://www.acmicpc.net/problem/1076) | [풀이](./solutions/1076.cpp) | [해설](https://whqtker.github.io/posts/백준-1076/) |
 | 1085 | <img src="https://static.solved.ac/tier_small/3.svg" width="20" height="20"> [직사각형에서 탈출](https://www.acmicpc.net/problem/1085) | [풀이](./solutions/1085.cpp) | [해설](https://whqtker.github.io/posts/백준-1085/) |
+| 1086 | <img src="https://static.solved.ac/tier_small/16.svg" width="20" height="20"> [박성원](https://www.acmicpc.net/problem/1086) | [풀이](./solutions/1086.cpp) | [해설](https://whqtker.github.io/posts/백준-1086/) |
 | 1100 | <img src="https://static.solved.ac/tier_small/4.svg" width="20" height="20"> [하얀 칸](https://www.acmicpc.net/problem/1100) | [풀이](./solutions/1100.cpp) | [해설](https://whqtker.github.io/posts/백준-1100/) |
 | 1103 | <img src="https://static.solved.ac/tier_small/14.svg" width="20" height="20"> [게임](https://www.acmicpc.net/problem/1103) | [풀이](./solutions/1103.cpp) | [해설](https://whqtker.github.io/posts/백준-1103/) |
 | 1106 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [호텔](https://www.acmicpc.net/problem/1106) | [풀이](./solutions/1106.cpp) | [해설](https://whqtker.github.io/posts/백준-1106/) |
