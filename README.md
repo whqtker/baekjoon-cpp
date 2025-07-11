@@ -153,6 +153,7 @@
 | 2228 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [구간 나누기](https://www.acmicpc.net/problem/2228) | [풀이](./solutions/2228.cpp) | [해설](https://whqtker.github.io/posts/백준-2228/) |
 | 2239 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [스도쿠](https://www.acmicpc.net/problem/2239) | [풀이](./solutions/2239.cpp) | [해설](https://whqtker.github.io/posts/백준-2239/) |
 | 2240 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [자두나무](https://www.acmicpc.net/problem/2240) | [풀이](./solutions/2240.cpp) | [해설](https://whqtker.github.io/posts/백준-2240/) |
+| 2250 | <img src="https://static.solved.ac/tier_small/14.svg" width="20" height="20"> [트리의 높이와 너비](https://www.acmicpc.net/problem/2250) | [풀이](./solutions/2250.cpp) | [해설](https://whqtker.github.io/posts/백준-2250/) |
 | 2252 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [줄 세우기](https://www.acmicpc.net/problem/2252) | [풀이](./solutions/2252.cpp) | [해설](https://whqtker.github.io/posts/백준-2252/) |
 | 2263 | <img src="https://static.solved.ac/tier_small/15.svg" width="20" height="20"> [트리의 순회](https://www.acmicpc.net/problem/2263) | [풀이](./solutions/2263.cpp) | [해설](https://whqtker.github.io/posts/백준-2263/) |
 | 2293 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [동전 1](https://www.acmicpc.net/problem/2293) | [풀이](./solutions/2293.cpp) | [해설](https://whqtker.github.io/posts/백준-2293/) |
