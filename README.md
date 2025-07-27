@@ -256,7 +256,7 @@
 | 9935 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [문자열 폭발](https://www.acmicpc.net/problem/9935) | [풀이](./solutions/9935.cpp) | [해설](https://whqtker.github.io/posts/백준-9935/) |
 | 10026 | <img src="https://static.solved.ac/tier_small/11.svg" width="20" height="20"> [적록색약](https://www.acmicpc.net/problem/10026) | [풀이](./solutions/10026.cpp) | [해설](https://whqtker.github.io/posts/백준-10026/) |
 | 10102 | <img src="https://static.solved.ac/tier_small/3.svg" width="20" height="20"> [개표](https://www.acmicpc.net/problem/10102) | [풀이](./solutions/10102.cpp) | [해설](https://whqtker.github.io/posts/백준-10102/) |
-| 10569 | <img src="https://static.solved.ac/tier_small/3.svg" width="20" height="20"> [다면체](https://www.acmicpc.net/problem/10569) | [풀이](./solutions/10569.cpp) | [해설](https://whqtker.github.io/posts/백준-10569/) |
+| 10569 | <img src="https://static.solved.ac/tier_small/2.svg" width="20" height="20"> [다면체](https://www.acmicpc.net/problem/10569) | [풀이](./solutions/10569.cpp) | [해설](https://whqtker.github.io/posts/백준-10569/) |
 | 10733 | <img src="https://static.solved.ac/tier_small/10.svg" width="20" height="20"> [\(I\)교신자 1](https://www.acmicpc.net/problem/10733) | [풀이](./solutions/10733.cpp) | [해설](https://whqtker.github.io/posts/백준-10733/) |
 | 10757 | <img src="https://static.solved.ac/tier_small/1.svg" width="20" height="20"> [큰 수 A+B](https://www.acmicpc.net/problem/10757) | [풀이](./solutions/10757.cpp) | [해설](https://whqtker.github.io/posts/백준-10757/) |
 | 10775 | <img src="https://static.solved.ac/tier_small/14.svg" width="20" height="20"> [공항](https://www.acmicpc.net/problem/10775) | [풀이](./solutions/10775.cpp) | [해설](https://whqtker.github.io/posts/백준-10775/) |
@@ -324,6 +324,7 @@
 | 14002 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002) | [풀이](./solutions/14002.cpp) | [해설](https://whqtker.github.io/posts/백준-14002/) |
 | 14003 | <img src="https://static.solved.ac/tier_small/16.svg" width="20" height="20"> [가장 긴 증가하는 부분 수열 5](https://www.acmicpc.net/problem/14003) | [풀이](./solutions/14003.cpp) | [해설](https://whqtker.github.io/posts/백준-14003/) |
 | 14170 | <img src="https://static.solved.ac/tier_small/8.svg" width="20" height="20"> [Counting Haybales](https://www.acmicpc.net/problem/14170) | [풀이](./solutions/14170.cpp) | [해설](https://whqtker.github.io/posts/백준-14170/) |
+| 14438 | <img src="https://static.solved.ac/tier_small/15.svg" width="20" height="20"> [수열과 쿼리 17](https://www.acmicpc.net/problem/14438) | [풀이](./solutions/14438.cpp) | [해설](https://whqtker.github.io/posts/백준-14438/) |
 | 14442 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442) | [풀이](./solutions/14442.cpp) | [해설](https://whqtker.github.io/posts/백준-14442/) |
 | 14500 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [테트로미노](https://www.acmicpc.net/problem/14500) | [풀이](./solutions/14500.cpp) | [해설](https://whqtker.github.io/posts/백준-14500/) |
 | 14501 | <img src="https://static.solved.ac/tier_small/8.svg" width="20" height="20"> [퇴사](https://www.acmicpc.net/problem/14501) | [풀이](./solutions/14501.cpp) | [해설](https://whqtker.github.io/posts/백준-14501/) |
