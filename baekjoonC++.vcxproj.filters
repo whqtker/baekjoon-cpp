@@ -393,5 +393,19 @@
     <ClCompile Include="solutions\2211.cpp" />
     <ClCompile Include="solutions\2150.cpp" />
     <ClCompile Include="solutions\1655.cpp" />
+    <ClCompile Include="solutions\9086.cpp" />
+    <ClCompile Include="solutions\10971.cpp" />
+    <ClCompile Include="solutions\5430.cpp" />
+    <ClCompile Include="solutions\1938.cpp" />
+    <ClCompile Include="solutions\7570.cpp" />
+    <ClCompile Include="solutions\2228.cpp" />
+    <ClCompile Include="solutions\1086.cpp" />
+    <ClCompile Include="solutions\2749.cpp" />
+    <ClCompile Include="solutions\1944.cpp" />
+    <ClCompile Include="solutions\2250.cpp" />
+    <ClCompile Include="solutions\14438.cpp" />
+    <ClCompile Include="solutions\2812.cpp" />
+    <ClCompile Include="solutions\33708.cpp" />
+    <ClCompile Include="solutions\3015.cpp" />
   </ItemGroup>
 </Project>
