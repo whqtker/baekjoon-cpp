@@ -211,6 +211,7 @@
 | 3273 | <img src="https://static.solved.ac/tier_small/8.svg" width="20" height="20"> [두 수의 합](https://www.acmicpc.net/problem/3273) | [풀이](./solutions/3273.cpp) | [해설](https://whqtker.github.io/posts/백준-3273/) |
 | 3460 | <img src="https://static.solved.ac/tier_small/3.svg" width="20" height="20"> [이진수](https://www.acmicpc.net/problem/3460) | [풀이](./solutions/3460.cpp) | [해설](https://whqtker.github.io/posts/백준-3460/) |
 | 3665 | <img src="https://static.solved.ac/tier_small/15.svg" width="20" height="20"> [최종 순위](https://www.acmicpc.net/problem/3665) | [풀이](./solutions/3665.cpp) | [해설](https://whqtker.github.io/posts/백준-3665/) |
+| 3830 | <img src="https://static.solved.ac/tier_small/18.svg" width="20" height="20"> [교수님은 기다리지 않는다](https://www.acmicpc.net/problem/3830) | [풀이](./solutions/3830.cpp) | [해설](https://whqtker.github.io/posts/백준-3830/) |
 | 3933 | <img src="https://static.solved.ac/tier_small/11.svg" width="20" height="20"> [라그랑주의 네 제곱수 정리](https://www.acmicpc.net/problem/3933) | [풀이](./solutions/3933.cpp) | [해설](https://whqtker.github.io/posts/백준-3933/) |
 | 4179 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [불!](https://www.acmicpc.net/problem/4179) | [풀이](./solutions/4179.cpp) | [해설](https://whqtker.github.io/posts/백준-4179/) |
 | 4470 | <img src="https://static.solved.ac/tier_small/2.svg" width="20" height="20"> [줄번호](https://www.acmicpc.net/problem/4470) | [풀이](./solutions/4470.cpp) | [해설](https://whqtker.github.io/posts/백준-4470/) |
