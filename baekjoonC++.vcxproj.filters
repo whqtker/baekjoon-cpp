@@ -407,5 +407,6 @@
     <ClCompile Include="solutions\2812.cpp" />
     <ClCompile Include="solutions\33708.cpp" />
     <ClCompile Include="solutions\3015.cpp" />
+    <ClCompile Include="solutions\32088.cpp" />
   </ItemGroup>
 </Project>
