@@ -313,6 +313,7 @@
 | 11967 | <img src="https://static.solved.ac/tier_small/14.svg" width="20" height="20"> [불켜기](https://www.acmicpc.net/problem/11967) | [풀이](./solutions/11967.cpp) | [해설](https://whqtker.github.io/posts/백준-11967/) |
 | 12015 | <img src="https://static.solved.ac/tier_small/14.svg" width="20" height="20"> [가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015) | [풀이](./solutions/12015.cpp) | [해설](https://whqtker.github.io/posts/백준-12015/) |
 | 12100 | <img src="https://static.solved.ac/tier_small/15.svg" width="20" height="20"> [2048 (Easy)](https://www.acmicpc.net/problem/12100) | [풀이](./solutions/12100.cpp) | [해설](https://whqtker.github.io/posts/백준-12100/) |
+| 12764 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [싸지방에 간 준하](https://www.acmicpc.net/problem/12764) | [풀이](./solutions/12764.cpp) | [해설](https://whqtker.github.io/posts/백준-12764/) |
 | 12850 | <img src="https://static.solved.ac/tier_small/16.svg" width="20" height="20"> [본대 산책2](https://www.acmicpc.net/problem/12850) | [풀이](./solutions/12850.cpp) | [해설](https://whqtker.github.io/posts/백준-12850/) |
 | 12851 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [숨바꼭질 2](https://www.acmicpc.net/problem/12851) | [풀이](./solutions/12851.cpp) | [해설](https://whqtker.github.io/posts/백준-12851/) |
 | 12852 | <img src="https://static.solved.ac/tier_small/10.svg" width="20" height="20"> [1로 만들기 2](https://www.acmicpc.net/problem/12852) | [풀이](./solutions/12852.cpp) | [해설](https://whqtker.github.io/posts/백준-12852/) |
