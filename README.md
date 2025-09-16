@@ -410,5 +410,6 @@
 | 28707 | <img src="https://static.solved.ac/tier_small/15.svg" width="20" height="20"> [배열 정렬](https://www.acmicpc.net/problem/28707) | [풀이](./solutions/28707.cpp) | [해설](https://whqtker.github.io/posts/백준-28707/) |
 | 30645 | <img src="https://static.solved.ac/tier_small/9.svg" width="20" height="20"> [인형 전시](https://www.acmicpc.net/problem/30645) | [풀이](./solutions/30645.cpp) | [해설](https://whqtker.github.io/posts/백준-30645/) |
 | 31413 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [입대](https://www.acmicpc.net/problem/31413) | [풀이](./solutions/31413.cpp) | [해설](https://whqtker.github.io/posts/백준-31413/) |
+| 32088 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [Triangle Construction](https://www.acmicpc.net/problem/32088) | [풀이](./solutions/32088.cpp) | [해설](https://whqtker.github.io/posts/백준-32088/) |
 | 32293 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [ABB to BA (Hard)](https://www.acmicpc.net/problem/32293) | [풀이](./solutions/32293.cpp) | [해설](https://whqtker.github.io/posts/백준-32293/) |
 | 33708 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [인수분해 정렬](https://www.acmicpc.net/problem/33708) | [풀이](./solutions/33708.cpp) | [해설](https://whqtker.github.io/posts/백준-33708/) |
