@@ -387,6 +387,7 @@
 | 20303 | <img src="https://static.solved.ac/tier_small/14.svg" width="20" height="20"> [할로윈의 양아치](https://www.acmicpc.net/problem/20303) | [풀이](./solutions/20303.cpp) | [해설](https://whqtker.github.io/posts/백준-20303/) |
 | 20529 | <img src="https://static.solved.ac/tier_small/10.svg" width="20" height="20"> [가장 가까운 세 사람의 심리적 거리](https://www.acmicpc.net/problem/20529) | [풀이](./solutions/20529.cpp) | [해설](https://whqtker.github.io/posts/백준-20529/) |
 | 20530 | <img src="https://static.solved.ac/tier_small/16.svg" width="20" height="20"> [양분](https://www.acmicpc.net/problem/20530) | [풀이](./solutions/20530.cpp) | [해설](https://whqtker.github.io/posts/백준-20530/) |
+| 21013 | <img src="https://static.solved.ac/tier_small/16.svg" width="20" height="20"> [Occult Square](https://www.acmicpc.net/problem/21013) | [풀이](./solutions/21013.cpp) | [해설](https://whqtker.github.io/posts/백준-21013/) |
 | 21736 | <img src="https://static.solved.ac/tier_small/9.svg" width="20" height="20"> [헌내기는 친구가 필요해](https://www.acmicpc.net/problem/21736) | [풀이](./solutions/21736.cpp) | [해설](https://whqtker.github.io/posts/백준-21736/) |
 | 23085 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [판치기](https://www.acmicpc.net/problem/23085) | [풀이](./solutions/23085.cpp) | [해설](https://whqtker.github.io/posts/백준-23085/) |
 | 23305 | <img src="https://static.solved.ac/tier_small/7.svg" width="20" height="20"> [수강변경](https://www.acmicpc.net/problem/23305) | [풀이](./solutions/23305.cpp) | [해설](https://whqtker.github.io/posts/백준-23305/) |
@@ -413,4 +414,5 @@
 | 31413 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [입대](https://www.acmicpc.net/problem/31413) | [풀이](./solutions/31413.cpp) | [해설](https://whqtker.github.io/posts/백준-31413/) |
 | 32088 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [Triangle Construction](https://www.acmicpc.net/problem/32088) | [풀이](./solutions/32088.cpp) | [해설](https://whqtker.github.io/posts/백준-32088/) |
 | 32293 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [ABB to BA (Hard)](https://www.acmicpc.net/problem/32293) | [풀이](./solutions/32293.cpp) | [해설](https://whqtker.github.io/posts/백준-32293/) |
+| 33148 | <img src="https://static.solved.ac/tier_small/15.svg" width="20" height="20"> [또또 수열 문제야](https://www.acmicpc.net/problem/33148) | [풀이](./solutions/33148.cpp) | [해설](https://whqtker.github.io/posts/백준-33148/) |
 | 33708 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [인수분해 정렬](https://www.acmicpc.net/problem/33708) | [풀이](./solutions/33708.cpp) | [해설](https://whqtker.github.io/posts/백준-33708/) |
