@@ -211,6 +211,7 @@
 | 3273 | <img src="https://static.solved.ac/tier_small/8.svg" width="20" height="20"> [두 수의 합](https://www.acmicpc.net/problem/3273) | [풀이](./solutions/3273.cpp) | [해설](https://whqtker.github.io/posts/백준-3273/) |
 | 3460 | <img src="https://static.solved.ac/tier_small/3.svg" width="20" height="20"> [이진수](https://www.acmicpc.net/problem/3460) | [풀이](./solutions/3460.cpp) | [해설](https://whqtker.github.io/posts/백준-3460/) |
 | 3665 | <img src="https://static.solved.ac/tier_small/15.svg" width="20" height="20"> [최종 순위](https://www.acmicpc.net/problem/3665) | [풀이](./solutions/3665.cpp) | [해설](https://whqtker.github.io/posts/백준-3665/) |
+| 3830 | <img src="https://static.solved.ac/tier_small/18.svg" width="20" height="20"> [교수님은 기다리지 않는다](https://www.acmicpc.net/problem/3830) | [풀이](./solutions/3830.cpp) | [해설](https://whqtker.github.io/posts/백준-3830/) |
 | 3933 | <img src="https://static.solved.ac/tier_small/11.svg" width="20" height="20"> [라그랑주의 네 제곱수 정리](https://www.acmicpc.net/problem/3933) | [풀이](./solutions/3933.cpp) | [해설](https://whqtker.github.io/posts/백준-3933/) |
 | 4179 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [불!](https://www.acmicpc.net/problem/4179) | [풀이](./solutions/4179.cpp) | [해설](https://whqtker.github.io/posts/백준-4179/) |
 | 4470 | <img src="https://static.solved.ac/tier_small/2.svg" width="20" height="20"> [줄번호](https://www.acmicpc.net/problem/4470) | [풀이](./solutions/4470.cpp) | [해설](https://whqtker.github.io/posts/백준-4470/) |
@@ -312,6 +313,7 @@
 | 11967 | <img src="https://static.solved.ac/tier_small/14.svg" width="20" height="20"> [불켜기](https://www.acmicpc.net/problem/11967) | [풀이](./solutions/11967.cpp) | [해설](https://whqtker.github.io/posts/백준-11967/) |
 | 12015 | <img src="https://static.solved.ac/tier_small/14.svg" width="20" height="20"> [가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015) | [풀이](./solutions/12015.cpp) | [해설](https://whqtker.github.io/posts/백준-12015/) |
 | 12100 | <img src="https://static.solved.ac/tier_small/15.svg" width="20" height="20"> [2048 (Easy)](https://www.acmicpc.net/problem/12100) | [풀이](./solutions/12100.cpp) | [해설](https://whqtker.github.io/posts/백준-12100/) |
+| 12764 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [싸지방에 간 준하](https://www.acmicpc.net/problem/12764) | [풀이](./solutions/12764.cpp) | [해설](https://whqtker.github.io/posts/백준-12764/) |
 | 12850 | <img src="https://static.solved.ac/tier_small/16.svg" width="20" height="20"> [본대 산책2](https://www.acmicpc.net/problem/12850) | [풀이](./solutions/12850.cpp) | [해설](https://whqtker.github.io/posts/백준-12850/) |
 | 12851 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [숨바꼭질 2](https://www.acmicpc.net/problem/12851) | [풀이](./solutions/12851.cpp) | [해설](https://whqtker.github.io/posts/백준-12851/) |
 | 12852 | <img src="https://static.solved.ac/tier_small/10.svg" width="20" height="20"> [1로 만들기 2](https://www.acmicpc.net/problem/12852) | [풀이](./solutions/12852.cpp) | [해설](https://whqtker.github.io/posts/백준-12852/) |
@@ -409,5 +411,6 @@
 | 28707 | <img src="https://static.solved.ac/tier_small/15.svg" width="20" height="20"> [배열 정렬](https://www.acmicpc.net/problem/28707) | [풀이](./solutions/28707.cpp) | [해설](https://whqtker.github.io/posts/백준-28707/) |
 | 30645 | <img src="https://static.solved.ac/tier_small/9.svg" width="20" height="20"> [인형 전시](https://www.acmicpc.net/problem/30645) | [풀이](./solutions/30645.cpp) | [해설](https://whqtker.github.io/posts/백준-30645/) |
 | 31413 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [입대](https://www.acmicpc.net/problem/31413) | [풀이](./solutions/31413.cpp) | [해설](https://whqtker.github.io/posts/백준-31413/) |
+| 32088 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [Triangle Construction](https://www.acmicpc.net/problem/32088) | [풀이](./solutions/32088.cpp) | [해설](https://whqtker.github.io/posts/백준-32088/) |
 | 32293 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [ABB to BA (Hard)](https://www.acmicpc.net/problem/32293) | [풀이](./solutions/32293.cpp) | [해설](https://whqtker.github.io/posts/백준-32293/) |
 | 33708 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [인수분해 정렬](https://www.acmicpc.net/problem/33708) | [풀이](./solutions/33708.cpp) | [해설](https://whqtker.github.io/posts/백준-33708/) |
