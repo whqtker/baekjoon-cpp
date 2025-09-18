@@ -12,7 +12,7 @@ long long arr[200000];
 bool check(long long k) {
     long long sum = 0;
     for (int i = 0; i < n; i++) {
-        sum += min(arr[i], k);
+        sum += min(arr[i], 2 * k);
     }
     return sum >= 3 * k; // 삼각형 k개를 만드는 데 필요한 점의 수는 최소 3k개
 }
