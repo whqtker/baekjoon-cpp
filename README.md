@@ -130,6 +130,7 @@
 | 2003 | <img src="https://static.solved.ac/tier_small/7.svg" width="20" height="20"> [수들의 합 2](https://www.acmicpc.net/problem/2003) | [풀이](./solutions/2003.cpp) | [해설](https://whqtker.github.io/posts/백준-2003/) |
 | 2011 | <img src="https://static.solved.ac/tier_small/11.svg" width="20" height="20"> [암호코드](https://www.acmicpc.net/problem/2011) | [풀이](./solutions/2011.cpp) | [해설](https://whqtker.github.io/posts/백준-2011/) |
 | 2012 | <img src="https://static.solved.ac/tier_small/8.svg" width="20" height="20"> [등수 매기기](https://www.acmicpc.net/problem/2012) | [풀이](./solutions/2012.cpp) | [해설](https://whqtker.github.io/posts/백준-2012/) |
+| 2015 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [수들의 합 4](https://www.acmicpc.net/problem/2015) | [풀이](./solutions/2015.cpp) | [해설](https://whqtker.github.io/posts/백준-2015/) |
 | 2033 | <img src="https://static.solved.ac/tier_small/5.svg" width="20" height="20"> [반올림](https://www.acmicpc.net/problem/2033) | [풀이](./solutions/2033.cpp) | [해설](https://whqtker.github.io/posts/백준-2033/) |
 | 2042 | <img src="https://static.solved.ac/tier_small/15.svg" width="20" height="20"> [구간 합 구하기](https://www.acmicpc.net/problem/2042) | [풀이](./solutions/2042.cpp) | [해설](https://whqtker.github.io/posts/백준-2042/) |
 | 2083 | <img src="https://static.solved.ac/tier_small/2.svg" width="20" height="20"> [럭비 클럽](https://www.acmicpc.net/problem/2083) | [풀이](./solutions/2083.cpp) | [해설](https://whqtker.github.io/posts/백준-2083/) |
