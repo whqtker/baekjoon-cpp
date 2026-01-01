@@ -42,6 +42,7 @@
 | 1152 | <img src="https://static.solved.ac/tier_small/4.svg" width="20" height="20"> [단어의 개수](https://www.acmicpc.net/problem/1152) | [풀이](./solutions/1152.cpp) | [해설](https://whqtker.github.io/posts/백준-1152/) |
 | 1157 | <img src="https://static.solved.ac/tier_small/5.svg" width="20" height="20"> [단어 공부](https://www.acmicpc.net/problem/1157) | [풀이](./solutions/1157.cpp) | [해설](https://whqtker.github.io/posts/백준-1157/) |
 | 1158 | <img src="https://static.solved.ac/tier_small/7.svg" width="20" height="20"> [요세푸스 문제](https://www.acmicpc.net/problem/1158) | [풀이](./solutions/1158.cpp) | [해설](https://whqtker.github.io/posts/백준-1158/) |
+| 1162 | <img src="https://static.solved.ac/tier_small/16.svg" width="20" height="20"> [도로포장](https://www.acmicpc.net/problem/1162) | [풀이](./solutions/1162.cpp) | [해설](https://whqtker.github.io/posts/백준-1162/) |
 | 1167 | <img src="https://static.solved.ac/tier_small/14.svg" width="20" height="20"> [트리의 지름](https://www.acmicpc.net/problem/1167) | [풀이](./solutions/1167.cpp) | [해설](https://whqtker.github.io/posts/백준-1167/) |
 | 1173 | <img src="https://static.solved.ac/tier_small/4.svg" width="20" height="20"> [운동](https://www.acmicpc.net/problem/1173) | [풀이](./solutions/1173.cpp) | [해설](https://whqtker.github.io/posts/백준-1173/) |
 | 1194 | <img src="https://static.solved.ac/tier_small/15.svg" width="20" height="20"> [달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194) | [풀이](./solutions/1194.cpp) | [해설](https://whqtker.github.io/posts/백준-1194/) |
@@ -96,6 +97,7 @@
 | 1699 | <img src="https://static.solved.ac/tier_small/9.svg" width="20" height="20"> [제곱수의 합](https://www.acmicpc.net/problem/1699) | [풀이](./solutions/1699.cpp) | [해설](https://whqtker.github.io/posts/백준-1699/) |
 | 1719 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [택배](https://www.acmicpc.net/problem/1719) | [풀이](./solutions/1719.cpp) | [해설](https://whqtker.github.io/posts/백준-1719/) |
 | 1725 | <img src="https://static.solved.ac/tier_small/16.svg" width="20" height="20"> [히스토그램](https://www.acmicpc.net/problem/1725) | [풀이](./solutions/1725.cpp) | [해설](https://whqtker.github.io/posts/백준-1725/) |
+| 1738 | <img src="https://static.solved.ac/tier_small/16.svg" width="20" height="20"> [골목길](https://www.acmicpc.net/problem/1738) | [풀이](./solutions/1738.cpp) | [해설](https://whqtker.github.io/posts/백준-1738/) |
 | 1744 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [수 묶기](https://www.acmicpc.net/problem/1744) | [풀이](./solutions/1744.cpp) | [해설](https://whqtker.github.io/posts/백준-1744/) |
 | 1747 | <img src="https://static.solved.ac/tier_small/10.svg" width="20" height="20"> [소수&팰린드롬](https://www.acmicpc.net/problem/1747) | [풀이](./solutions/1747.cpp) | [해설](https://whqtker.github.io/posts/백준-1747/) |
 | 1748 | <img src="https://static.solved.ac/tier_small/7.svg" width="20" height="20"> [수 이어 쓰기 1](https://www.acmicpc.net/problem/1748) | [풀이](./solutions/1748.cpp) | [해설](https://whqtker.github.io/posts/백준-1748/) |
@@ -251,7 +253,7 @@
 | 9086 | <img src="https://static.solved.ac/tier_small/1.svg" width="20" height="20"> [문자열](https://www.acmicpc.net/problem/9086) | [풀이](./solutions/9086.cpp) | [해설](https://whqtker.github.io/posts/백준-9086/) |
 | 9205 | <img src="https://static.solved.ac/tier_small/11.svg" width="20" height="20"> [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) | [풀이](./solutions/9205.cpp) | [해설](https://whqtker.github.io/posts/백준-9205/) |
 | 9251 | <img src="https://static.solved.ac/tier_small/11.svg" width="20" height="20"> [LCS](https://www.acmicpc.net/problem/9251) | [풀이](./solutions/9251.cpp) | [해설](https://whqtker.github.io/posts/백준-9251/) |
-| 9252 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [LCS 2](https://www.acmicpc.net/problem/9252) | [풀이](./solutions/9252.cpp) | [해설](https://whqtker.github.io/posts/백준-9252/) |
+| 9252 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [LCS 2](https://www.acmicpc.net/problem/9252) | [풀이](./solutions/9252.cpp) | [해설](https://whqtker.github.io/posts/백준-9252/) |
 | 9325 | <img src="https://static.solved.ac/tier_small/3.svg" width="20" height="20"> [얼마?](https://www.acmicpc.net/problem/9325) | [풀이](./solutions/9325.cpp) | [해설](https://whqtker.github.io/posts/백준-9325/) |
 | 9328 | <img src="https://static.solved.ac/tier_small/15.svg" width="20" height="20"> [열쇠](https://www.acmicpc.net/problem/9328) | [풀이](./solutions/9328.cpp) | [해설](https://whqtker.github.io/posts/백준-9328/) |
 | 9370 | <img src="https://static.solved.ac/tier_small/14.svg" width="20" height="20"> [미확인 도착지](https://www.acmicpc.net/problem/9370) | [풀이](./solutions/9370.cpp) | [해설](https://whqtker.github.io/posts/백준-9370/) |
