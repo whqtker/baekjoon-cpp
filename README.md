@@ -230,6 +230,7 @@
 | 5063 | <img src="https://static.solved.ac/tier_small/3.svg" width="20" height="20"> [TGN](https://www.acmicpc.net/problem/5063) | [풀이](./solutions/5063.cpp) | [해설](https://whqtker.github.io/posts/백준-5063/) |
 | 5176 | <img src="https://static.solved.ac/tier_small/4.svg" width="20" height="20"> [대회 자리](https://www.acmicpc.net/problem/5176) | [풀이](./solutions/5176.cpp) | [해설](https://whqtker.github.io/posts/백준-5176/) |
 | 5355 | <img src="https://static.solved.ac/tier_small/4.svg" width="20" height="20"> [화성 수학](https://www.acmicpc.net/problem/5355) | [풀이](./solutions/5355.cpp) | [해설](https://whqtker.github.io/posts/백준-5355/) |
+| 5373 | <img src="https://static.solved.ac/tier_small/16.svg" width="20" height="20"> [큐빙](https://www.acmicpc.net/problem/5373) | [풀이](./solutions/5373.cpp) | [해설](https://whqtker.github.io/posts/백준-5373/) |
 | 5427 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [불](https://www.acmicpc.net/problem/5427) | [풀이](./solutions/5427.cpp) | [해설](https://whqtker.github.io/posts/백준-5427/) |
 | 5430 | <img src="https://static.solved.ac/tier_small/11.svg" width="20" height="20"> [AC](https://www.acmicpc.net/problem/5430) | [풀이](./solutions/5430.cpp) | [해설](https://whqtker.github.io/posts/백준-5430/) |
 | 5525 | <img src="https://static.solved.ac/tier_small/10.svg" width="20" height="20"> [IOIOI](https://www.acmicpc.net/problem/5525) | [풀이](./solutions/5525.cpp) | [해설](https://whqtker.github.io/posts/백준-5525/) |
@@ -253,7 +254,7 @@
 | 9086 | <img src="https://static.solved.ac/tier_small/1.svg" width="20" height="20"> [문자열](https://www.acmicpc.net/problem/9086) | [풀이](./solutions/9086.cpp) | [해설](https://whqtker.github.io/posts/백준-9086/) |
 | 9205 | <img src="https://static.solved.ac/tier_small/11.svg" width="20" height="20"> [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) | [풀이](./solutions/9205.cpp) | [해설](https://whqtker.github.io/posts/백준-9205/) |
 | 9251 | <img src="https://static.solved.ac/tier_small/11.svg" width="20" height="20"> [LCS](https://www.acmicpc.net/problem/9251) | [풀이](./solutions/9251.cpp) | [해설](https://whqtker.github.io/posts/백준-9251/) |
-| 9252 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [LCS 2](https://www.acmicpc.net/problem/9252) | [풀이](./solutions/9252.cpp) | [해설](https://whqtker.github.io/posts/백준-9252/) |
+| 9252 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [LCS 2](https://www.acmicpc.net/problem/9252) | [풀이](./solutions/9252.cpp) | [해설](https://whqtker.github.io/posts/백준-9252/) |
 | 9325 | <img src="https://static.solved.ac/tier_small/3.svg" width="20" height="20"> [얼마?](https://www.acmicpc.net/problem/9325) | [풀이](./solutions/9325.cpp) | [해설](https://whqtker.github.io/posts/백준-9325/) |
 | 9328 | <img src="https://static.solved.ac/tier_small/15.svg" width="20" height="20"> [열쇠](https://www.acmicpc.net/problem/9328) | [풀이](./solutions/9328.cpp) | [해설](https://whqtker.github.io/posts/백준-9328/) |
 | 9370 | <img src="https://static.solved.ac/tier_small/14.svg" width="20" height="20"> [미확인 도착지](https://www.acmicpc.net/problem/9370) | [풀이](./solutions/9370.cpp) | [해설](https://whqtker.github.io/posts/백준-9370/) |
@@ -338,6 +339,7 @@
 | 14170 | <img src="https://static.solved.ac/tier_small/8.svg" width="20" height="20"> [Counting Haybales](https://www.acmicpc.net/problem/14170) | [풀이](./solutions/14170.cpp) | [해설](https://whqtker.github.io/posts/백준-14170/) |
 | 14438 | <img src="https://static.solved.ac/tier_small/15.svg" width="20" height="20"> [수열과 쿼리 17](https://www.acmicpc.net/problem/14438) | [풀이](./solutions/14438.cpp) | [해설](https://whqtker.github.io/posts/백준-14438/) |
 | 14442 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442) | [풀이](./solutions/14442.cpp) | [해설](https://whqtker.github.io/posts/백준-14442/) |
+| 14499 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [주사위 굴리기](https://www.acmicpc.net/problem/14499) | [풀이](./solutions/14499.cpp) | [해설](https://whqtker.github.io/posts/백준-14499/) |
 | 14500 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [테트로미노](https://www.acmicpc.net/problem/14500) | [풀이](./solutions/14500.cpp) | [해설](https://whqtker.github.io/posts/백준-14500/) |
 | 14501 | <img src="https://static.solved.ac/tier_small/8.svg" width="20" height="20"> [퇴사](https://www.acmicpc.net/problem/14501) | [풀이](./solutions/14501.cpp) | [해설](https://whqtker.github.io/posts/백준-14501/) |
 | 14502 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [연구소](https://www.acmicpc.net/problem/14502) | [풀이](./solutions/14502.cpp) | [해설](https://whqtker.github.io/posts/백준-14502/) |
@@ -345,6 +347,7 @@
 | 14615 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [Defend the CTP!!!](https://www.acmicpc.net/problem/14615) | [풀이](./solutions/14615.cpp) | [해설](https://whqtker.github.io/posts/백준-14615/) |
 | 14725 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [개미굴](https://www.acmicpc.net/problem/14725) | [풀이](./solutions/14725.cpp) | [해설](https://whqtker.github.io/posts/백준-14725/) |
 | 14890 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [경사로](https://www.acmicpc.net/problem/14890) | [풀이](./solutions/14890.cpp) | [해설](https://whqtker.github.io/posts/백준-14890/) |
+| 14891 | <img src="https://static.solved.ac/tier_small/11.svg" width="20" height="20"> [톱니바퀴](https://www.acmicpc.net/problem/14891) | [풀이](./solutions/14891.cpp) | [해설](https://whqtker.github.io/posts/백준-14891/) |
 | 14938 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [서강그라운드](https://www.acmicpc.net/problem/14938) | [풀이](./solutions/14938.cpp) | [해설](https://whqtker.github.io/posts/백준-14938/) |
 | 14940 | <img src="https://static.solved.ac/tier_small/10.svg" width="20" height="20"> [쉬운 최단거리](https://www.acmicpc.net/problem/14940) | [풀이](./solutions/14940.cpp) | [해설](https://whqtker.github.io/posts/백준-14940/) |
 | 15483 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [최소 편집](https://www.acmicpc.net/problem/15483) | [풀이](./solutions/15483.cpp) | [해설](https://whqtker.github.io/posts/백준-15483/) |
@@ -360,6 +363,8 @@
 | 15666 | <img src="https://static.solved.ac/tier_small/9.svg" width="20" height="20"> [N과 M (12)](https://www.acmicpc.net/problem/15666) | [풀이](./solutions/15666.cpp) | [해설](https://whqtker.github.io/posts/백준-15666/) |
 | 15681 | <img src="https://static.solved.ac/tier_small/11.svg" width="20" height="20"> [트리와 쿼리](https://www.acmicpc.net/problem/15681) | [풀이](./solutions/15681.cpp) | [해설](https://whqtker.github.io/posts/백준-15681/) |
 | 15683 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [감시](https://www.acmicpc.net/problem/15683) | [풀이](./solutions/15683.cpp) | [해설](https://whqtker.github.io/posts/백준-15683/) |
+| 15684 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [사다리 조작](https://www.acmicpc.net/problem/15684) | [풀이](./solutions/15684.cpp) | [해설](https://whqtker.github.io/posts/백준-15684/) |
+| 15685 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [드래곤 커브](https://www.acmicpc.net/problem/15685) | [풀이](./solutions/15685.cpp) | [해설](https://whqtker.github.io/posts/백준-15685/) |
 | 15686 | <img src="https://static.solved.ac/tier_small/11.svg" width="20" height="20"> [치킨 배달](https://www.acmicpc.net/problem/15686) | [풀이](./solutions/15686.cpp) | [해설](https://whqtker.github.io/posts/백준-15686/) |
 | 15702 | <img src="https://static.solved.ac/tier_small/6.svg" width="20" height="20"> [중간고사 채점](https://www.acmicpc.net/problem/15702) | [풀이](./solutions/15702.cpp) | [해설](https://whqtker.github.io/posts/백준-15702/) |
 | 15828 | <img src="https://static.solved.ac/tier_small/7.svg" width="20" height="20"> [Router](https://www.acmicpc.net/problem/15828) | [풀이](./solutions/15828.cpp) | [해설](https://whqtker.github.io/posts/백준-15828/) |
@@ -367,6 +372,8 @@
 | 15916 | <img src="https://static.solved.ac/tier_small/10.svg" width="20" height="20"> [가희는 그래플러야!!](https://www.acmicpc.net/problem/15916) | [풀이](./solutions/15916.cpp) | [해설](https://whqtker.github.io/posts/백준-15916/) |
 | 15988 | <img src="https://static.solved.ac/tier_small/9.svg" width="20" height="20"> [1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988) | [풀이](./solutions/15988.cpp) | [해설](https://whqtker.github.io/posts/백준-15988/) |
 | 15989 | <img src="https://static.solved.ac/tier_small/11.svg" width="20" height="20"> [1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989) | [풀이](./solutions/15989.cpp) | [해설](https://whqtker.github.io/posts/백준-15989/) |
+| 16234 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [인구 이동](https://www.acmicpc.net/problem/16234) | [풀이](./solutions/16234.cpp) | [해설](https://whqtker.github.io/posts/백준-16234/) |
+| 16235 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [나무 재테크](https://www.acmicpc.net/problem/16235) | [풀이](./solutions/16235.cpp) | [해설](https://whqtker.github.io/posts/백준-16235/) |
 | 16236 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [아기 상어](https://www.acmicpc.net/problem/16236) | [풀이](./solutions/16236.cpp) | [해설](https://whqtker.github.io/posts/백준-16236/) |
 | 16566 | <img src="https://static.solved.ac/tier_small/16.svg" width="20" height="20"> [카드 게임](https://www.acmicpc.net/problem/16566) | [풀이](./solutions/16566.cpp) | [해설](https://whqtker.github.io/posts/백준-16566/) |
 | 16724 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [피리 부는 사나이](https://www.acmicpc.net/problem/16724) | [풀이](./solutions/16724.cpp) | [해설](https://whqtker.github.io/posts/백준-16724/) |
@@ -378,6 +385,7 @@
 | 16946 | <img src="https://static.solved.ac/tier_small/14.svg" width="20" height="20"> [벽 부수고 이동하기 4](https://www.acmicpc.net/problem/16946) | [풀이](./solutions/16946.cpp) | [해설](https://whqtker.github.io/posts/백준-16946/) |
 | 16953 | <img src="https://static.solved.ac/tier_small/9.svg" width="20" height="20"> [A → B](https://www.acmicpc.net/problem/16953) | [풀이](./solutions/16953.cpp) | [해설](https://whqtker.github.io/posts/백준-16953/) |
 | 17070 | <img src="https://static.solved.ac/tier_small/11.svg" width="20" height="20"> [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) | [풀이](./solutions/17070.cpp) | [해설](https://whqtker.github.io/posts/백준-17070/) |
+| 17140 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [이차원 배열과 연산](https://www.acmicpc.net/problem/17140) | [풀이](./solutions/17140.cpp) | [해설](https://whqtker.github.io/posts/백준-17140/) |
 | 17141 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [연구소 2](https://www.acmicpc.net/problem/17141) | [풀이](./solutions/17141.cpp) | [해설](https://whqtker.github.io/posts/백준-17141/) |
 | 17143 | <img src="https://static.solved.ac/tier_small/15.svg" width="20" height="20"> [낚시왕](https://www.acmicpc.net/problem/17143) | [풀이](./solutions/17143.cpp) | [해설](https://whqtker.github.io/posts/백준-17143/) |
 | 17144 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [미세먼지 안녕!](https://www.acmicpc.net/problem/17144) | [풀이](./solutions/17144.cpp) | [해설](https://whqtker.github.io/posts/백준-17144/) |
