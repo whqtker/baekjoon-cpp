@@ -286,7 +286,7 @@
 | 10984 | <img src="https://static.solved.ac/tier_small/3.svg" width="20" height="20"> [내 학점을 구해줘](https://www.acmicpc.net/problem/10984) | [풀이](./solutions/10984.cpp) | [해설](https://whqtker.github.io/posts/백준-10984/) |
 | 10989 | <img src="https://static.solved.ac/tier_small/5.svg" width="20" height="20"> [수 정렬하기 3](https://www.acmicpc.net/problem/10989) | [풀이](./solutions/10989.cpp) | [해설](https://whqtker.github.io/posts/백준-10989/) |
 | 11000 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [강의실 배정](https://www.acmicpc.net/problem/11000) | [풀이](./solutions/11000.cpp) | [해설](https://whqtker.github.io/posts/백준-11000/) |
-| 11003 | <img src="https://static.solved.ac/tier_small/16.svg" width="20" height="20"> [최솟값 찾기](https://www.acmicpc.net/problem/11003) | [풀이](./solutions/11003.cpp) | [해설](https://whqtker.github.io/posts/백준-11003/) |
+| 11003 | <img src="https://static.solved.ac/tier_small/15.svg" width="20" height="20"> [최솟값 찾기](https://www.acmicpc.net/problem/11003) | [풀이](./solutions/11003.cpp) | [해설](https://whqtker.github.io/posts/백준-11003/) |
 | 11047 | <img src="https://static.solved.ac/tier_small/7.svg" width="20" height="20"> [동전 0](https://www.acmicpc.net/problem/11047) | [풀이](./solutions/11047.cpp) | [해설](https://whqtker.github.io/posts/백준-11047/) |
 | 11049 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049) | [풀이](./solutions/11049.cpp) | [해설](https://whqtker.github.io/posts/백준-11049/) |
 | 11051 | <img src="https://static.solved.ac/tier_small/9.svg" width="20" height="20"> [이항 계수 2](https://www.acmicpc.net/problem/11051) | [풀이](./solutions/11051.cpp) | [해설](https://whqtker.github.io/posts/백준-11051/) |
@@ -375,7 +375,7 @@
 | 16234 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [인구 이동](https://www.acmicpc.net/problem/16234) | [풀이](./solutions/16234.cpp) | [해설](https://whqtker.github.io/posts/백준-16234/) |
 | 16235 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [나무 재테크](https://www.acmicpc.net/problem/16235) | [풀이](./solutions/16235.cpp) | [해설](https://whqtker.github.io/posts/백준-16235/) |
 | 16236 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [아기 상어](https://www.acmicpc.net/problem/16236) | [풀이](./solutions/16236.cpp) | [해설](https://whqtker.github.io/posts/백준-16236/) |
-| 16566 | <img src="https://static.solved.ac/tier_small/16.svg" width="20" height="20"> [카드 게임](https://www.acmicpc.net/problem/16566) | [풀이](./solutions/16566.cpp) | [해설](https://whqtker.github.io/posts/백준-16566/) |
+| 16566 | <img src="https://static.solved.ac/tier_small/15.svg" width="20" height="20"> [카드 게임](https://www.acmicpc.net/problem/16566) | [풀이](./solutions/16566.cpp) | [해설](https://whqtker.github.io/posts/백준-16566/) |
 | 16724 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [피리 부는 사나이](https://www.acmicpc.net/problem/16724) | [풀이](./solutions/16724.cpp) | [해설](https://whqtker.github.io/posts/백준-16724/) |
 | 16918 | <img src="https://static.solved.ac/tier_small/10.svg" width="20" height="20"> [봄버맨](https://www.acmicpc.net/problem/16918) | [풀이](./solutions/16918.cpp) | [해설](https://whqtker.github.io/posts/백준-16918/) |
 | 16928 | <img src="https://static.solved.ac/tier_small/11.svg" width="20" height="20"> [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) | [풀이](./solutions/16928.cpp) | [해설](https://whqtker.github.io/posts/백준-16928/) |
@@ -387,6 +387,7 @@
 | 17070 | <img src="https://static.solved.ac/tier_small/11.svg" width="20" height="20"> [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) | [풀이](./solutions/17070.cpp) | [해설](https://whqtker.github.io/posts/백준-17070/) |
 | 17140 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [이차원 배열과 연산](https://www.acmicpc.net/problem/17140) | [풀이](./solutions/17140.cpp) | [해설](https://whqtker.github.io/posts/백준-17140/) |
 | 17141 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [연구소 2](https://www.acmicpc.net/problem/17141) | [풀이](./solutions/17141.cpp) | [해설](https://whqtker.github.io/posts/백준-17141/) |
+| 17142 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [연구소 3](https://www.acmicpc.net/problem/17142) | [풀이](./solutions/17142.cpp) | [해설](https://whqtker.github.io/posts/백준-17142/) |
 | 17143 | <img src="https://static.solved.ac/tier_small/15.svg" width="20" height="20"> [낚시왕](https://www.acmicpc.net/problem/17143) | [풀이](./solutions/17143.cpp) | [해설](https://whqtker.github.io/posts/백준-17143/) |
 | 17144 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [미세먼지 안녕!](https://www.acmicpc.net/problem/17144) | [풀이](./solutions/17144.cpp) | [해설](https://whqtker.github.io/posts/백준-17144/) |
 | 17219 | <img src="https://static.solved.ac/tier_small/7.svg" width="20" height="20"> [비밀번호 찾기](https://www.acmicpc.net/problem/17219) | [풀이](./solutions/17219.cpp) | [해설](https://whqtker.github.io/posts/백준-17219/) |
@@ -404,7 +405,7 @@
 | 20303 | <img src="https://static.solved.ac/tier_small/14.svg" width="20" height="20"> [할로윈의 양아치](https://www.acmicpc.net/problem/20303) | [풀이](./solutions/20303.cpp) | [해설](https://whqtker.github.io/posts/백준-20303/) |
 | 20366 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366) | [풀이](./solutions/20366.cpp) | [해설](https://whqtker.github.io/posts/백준-20366/) |
 | 20529 | <img src="https://static.solved.ac/tier_small/10.svg" width="20" height="20"> [가장 가까운 세 사람의 심리적 거리](https://www.acmicpc.net/problem/20529) | [풀이](./solutions/20529.cpp) | [해설](https://whqtker.github.io/posts/백준-20529/) |
-| 20530 | <img src="https://static.solved.ac/tier_small/16.svg" width="20" height="20"> [양분](https://www.acmicpc.net/problem/20530) | [풀이](./solutions/20530.cpp) | [해설](https://whqtker.github.io/posts/백준-20530/) |
+| 20530 | <img src="https://static.solved.ac/tier_small/15.svg" width="20" height="20"> [양분](https://www.acmicpc.net/problem/20530) | [풀이](./solutions/20530.cpp) | [해설](https://whqtker.github.io/posts/백준-20530/) |
 | 21013 | <img src="https://static.solved.ac/tier_small/16.svg" width="20" height="20"> [Occult Square](https://www.acmicpc.net/problem/21013) | [풀이](./solutions/21013.cpp) | [해설](https://whqtker.github.io/posts/백준-21013/) |
 | 21736 | <img src="https://static.solved.ac/tier_small/9.svg" width="20" height="20"> [헌내기는 친구가 필요해](https://www.acmicpc.net/problem/21736) | [풀이](./solutions/21736.cpp) | [해설](https://whqtker.github.io/posts/백준-21736/) |
 | 23085 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [판치기](https://www.acmicpc.net/problem/23085) | [풀이](./solutions/23085.cpp) | [해설](https://whqtker.github.io/posts/백준-23085/) |
