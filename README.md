@@ -330,6 +330,7 @@
 | 12851 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [숨바꼭질 2](https://www.acmicpc.net/problem/12851) | [풀이](./solutions/12851.cpp) | [해설](https://whqtker.github.io/posts/백준-12851/) |
 | 12852 | <img src="https://static.solved.ac/tier_small/11.svg" width="20" height="20"> [1로 만들기 2](https://www.acmicpc.net/problem/12852) | [풀이](./solutions/12852.cpp) | [해설](https://whqtker.github.io/posts/백준-12852/) |
 | 12865 | <img src="https://static.solved.ac/tier_small/11.svg" width="20" height="20"> [평범한 배낭](https://www.acmicpc.net/problem/12865) | [풀이](./solutions/12865.cpp) | [해설](https://whqtker.github.io/posts/백준-12865/) |
+| 13141 | <img src="https://static.solved.ac/tier_small/16.svg" width="20" height="20"> [Ignition](https://www.acmicpc.net/problem/13141) | [풀이](./solutions/13141.cpp) | [해설](https://whqtker.github.io/posts/백준-13141/) |
 | 13164 | <img src="https://static.solved.ac/tier_small/11.svg" width="20" height="20"> [행복 유치원](https://www.acmicpc.net/problem/13164) | [풀이](./solutions/13164.cpp) | [해설](https://whqtker.github.io/posts/백준-13164/) |
 | 13172 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [Σ](https://www.acmicpc.net/problem/13172) | [풀이](./solutions/13172.cpp) | [해설](https://whqtker.github.io/posts/백준-13172/) |
 | 13334 | <img src="https://static.solved.ac/tier_small/14.svg" width="20" height="20"> [철로](https://www.acmicpc.net/problem/13334) | [풀이](./solutions/13334.cpp) | [해설](https://whqtker.github.io/posts/백준-13334/) |
@@ -433,6 +434,7 @@
 | 28075 | <img src="https://static.solved.ac/tier_small/8.svg" width="20" height="20"> [스파이](https://www.acmicpc.net/problem/28075) | [풀이](./solutions/28075.cpp) | [해설](https://whqtker.github.io/posts/백준-28075/) |
 | 28082 | <img src="https://static.solved.ac/tier_small/15.svg" width="20" height="20"> [기계오리 연구](https://www.acmicpc.net/problem/28082) | [풀이](./solutions/28082.cpp) | [해설](https://whqtker.github.io/posts/백준-28082/) |
 | 28707 | <img src="https://static.solved.ac/tier_small/15.svg" width="20" height="20"> [배열 정렬](https://www.acmicpc.net/problem/28707) | [풀이](./solutions/28707.cpp) | [해설](https://whqtker.github.io/posts/백준-28707/) |
+| 30039 | <img src="https://static.solved.ac/tier_small/16.svg" width="20" height="20"> [Queueueue](https://www.acmicpc.net/problem/30039) | [풀이](./solutions/30039.cpp) | [해설](https://whqtker.github.io/posts/백준-30039/) |
 | 30645 | <img src="https://static.solved.ac/tier_small/9.svg" width="20" height="20"> [인형 전시](https://www.acmicpc.net/problem/30645) | [풀이](./solutions/30645.cpp) | [해설](https://whqtker.github.io/posts/백준-30645/) |
 | 31413 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [입대](https://www.acmicpc.net/problem/31413) | [풀이](./solutions/31413.cpp) | [해설](https://whqtker.github.io/posts/백준-31413/) |
 | 32088 | <img src="https://static.solved.ac/tier_small/13.svg" width="20" height="20"> [Triangle Construction](https://www.acmicpc.net/problem/32088) | [풀이](./solutions/32088.cpp) | [해설](https://whqtker.github.io/posts/백준-32088/) |
