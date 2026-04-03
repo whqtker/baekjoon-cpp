@@ -438,6 +438,7 @@
 | 21013 | <img src="https://static.solved.ac/tier_small/16.svg" width="20" height="20"> [Occult Square](https://www.acmicpc.net/problem/21013) | [`C++`](./baekjoon/cpp/21013.cpp) | [해설](https://whqtker.github.io/posts/백준-21013/) |
 | 21736 | <img src="https://static.solved.ac/tier_small/9.svg" width="20" height="20"> [헌내기는 친구가 필요해](https://www.acmicpc.net/problem/21736) | [`C++`](./baekjoon/cpp/21736.cpp) | [해설](https://whqtker.github.io/posts/백준-21736/) |
 | 23085 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [판치기](https://www.acmicpc.net/problem/23085) | [`C++`](./baekjoon/cpp/23085.cpp) | [해설](https://whqtker.github.io/posts/백준-23085/) |
+| 23088 | <img src="https://static.solved.ac/tier_small/14.svg" width="20" height="20"> [Aging](https://www.acmicpc.net/problem/23088) | [`C++`](./baekjoon/cpp/23088.cpp) | [해설](https://whqtker.github.io/posts/백준-23088/) |
 | 23305 | <img src="https://static.solved.ac/tier_small/7.svg" width="20" height="20"> [수강변경](https://www.acmicpc.net/problem/23305) | [`C++`](./baekjoon/cpp/23305.cpp) | [해설](https://whqtker.github.io/posts/백준-23305/) |
 | 23324 | <img src="https://static.solved.ac/tier_small/12.svg" width="20" height="20"> [어려운 모든 정점 쌍 최단 거리](https://www.acmicpc.net/problem/23324) | [`C++`](./baekjoon/cpp/23324.cpp) | [해설](https://whqtker.github.io/posts/백준-23324/) |
 | 25083 | <img src="https://static.solved.ac/tier_small/1.svg" width="20" height="20"> [새싹](https://www.acmicpc.net/problem/25083) | [`C++`](./baekjoon/cpp/25083.cpp) | [해설](https://whqtker.github.io/posts/백준-25083/) |
@@ -475,8 +476,44 @@
 <!-- PROG_TABLE_START -->
 | 문제 | 언어 |
 |------|------|
+| k진수에서 소수 개수 구하기 | [`C++`](./programmers/cpp/k%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%89%E1%85%AE%E1%84%8B%E1%85%A6%E1%84%89%E1%85%A5%20%E1%84%89%E1%85%A9%E1%84%89%E1%85%AE%20%E1%84%80%E1%85%A2%E1%84%89%E1%85%AE%20%E1%84%80%E1%85%AE%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5.cpp) |
 | k진수에서 소수 개수 구하기 | [`C++`](./programmers/cpp/k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C%20%EC%86%8C%EC%88%98%20%EA%B0%9C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.cpp) |
+| n+1 카드게임 | [`C++`](./programmers/cpp/n+1%20%E1%84%8F%E1%85%A1%E1%84%83%E1%85%B3%E1%84%80%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%B7.cpp) |
 | n+1 카드게임 | [`C++`](./programmers/cpp/n+1%20%EC%B9%B4%EB%93%9C%EA%B2%8C%EC%9E%84.cpp) |
+| 개인정보 수집 유효기간 | [`C++`](./programmers/cpp/%E1%84%80%E1%85%A2%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A9%20%E1%84%89%E1%85%AE%E1%84%8C%E1%85%B5%E1%86%B8%20%E1%84%8B%E1%85%B2%E1%84%92%E1%85%AD%E1%84%80%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB.cpp) |
+| 거리두기 확인하기 | [`C++`](./programmers/cpp/%E1%84%80%E1%85%A5%E1%84%85%E1%85%B5%E1%84%83%E1%85%AE%E1%84%80%E1%85%B5%20%E1%84%92%E1%85%AA%E1%86%A8%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5.cpp) |
+| 경주로 건설 | [`C++`](./programmers/cpp/%E1%84%80%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%AE%E1%84%85%E1%85%A9%20%E1%84%80%E1%85%A5%E1%86%AB%E1%84%89%E1%85%A5%E1%86%AF.cpp) |
+| 광고 삽입 | [`C++`](./programmers/cpp/%E1%84%80%E1%85%AA%E1%86%BC%E1%84%80%E1%85%A9%20%E1%84%89%E1%85%A1%E1%86%B8%E1%84%8B%E1%85%B5%E1%86%B8.cpp) |
+| 두 큐 합 같게 만들기 | [`C++`](./programmers/cpp/%E1%84%83%E1%85%AE%20%E1%84%8F%E1%85%B2%20%E1%84%92%E1%85%A1%E1%86%B8%20%E1%84%80%E1%85%A1%E1%87%80%E1%84%80%E1%85%A6%20%E1%84%86%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%80%E1%85%B5.cpp) |
+| 등산코스 정하기 | [`C++`](./programmers/cpp/%E1%84%83%E1%85%B3%E1%86%BC%E1%84%89%E1%85%A1%E1%86%AB%E1%84%8F%E1%85%A9%E1%84%89%E1%85%B3%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5.cpp) |
+| 메뉴 리뉴얼 | [`C++`](./programmers/cpp/%E1%84%86%E1%85%A6%E1%84%82%E1%85%B2%20%E1%84%85%E1%85%B5%E1%84%82%E1%85%B2%E1%84%8B%E1%85%A5%E1%86%AF.cpp) |
+| 미로 탈출 명령어 | [`C++`](./programmers/cpp/%E1%84%86%E1%85%B5%E1%84%85%E1%85%A9%20%E1%84%90%E1%85%A1%E1%86%AF%E1%84%8E%E1%85%AE%E1%86%AF%20%E1%84%86%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A7%E1%86%BC%E1%84%8B%E1%85%A5.cpp) |
+| 보석 쇼핑 | [`C++`](./programmers/cpp/%E1%84%87%E1%85%A9%E1%84%89%E1%85%A5%E1%86%A8%20%E1%84%89%E1%85%AD%E1%84%91%E1%85%B5%E1%86%BC.cpp) |
+| 불량 사용자 | [`C++`](./programmers/cpp/%E1%84%87%E1%85%AE%E1%86%AF%E1%84%85%E1%85%A3%E1%86%BC%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%8C%E1%85%A1.cpp) |
+| 블록 이동하기 | [`C++`](./programmers/cpp/%E1%84%87%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A9%E1%86%A8%20%E1%84%8B%E1%85%B5%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5.cpp) |
+| 사라지는 발판 | [`C++`](./programmers/cpp/%E1%84%89%E1%85%A1%E1%84%85%E1%85%A1%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%A1%E1%86%AB.cpp) |
+| 산 모양 타일링 | [`C++`](./programmers/cpp/%E1%84%89%E1%85%A1%E1%86%AB%20%E1%84%86%E1%85%A9%E1%84%8B%E1%85%A3%E1%86%BC%20%E1%84%90%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%85%E1%85%B5%E1%86%BC.cpp) |
+| 성격 유형 검사하기 | [`C++`](./programmers/cpp/%E1%84%89%E1%85%A5%E1%86%BC%E1%84%80%E1%85%A7%E1%86%A8%20%E1%84%8B%E1%85%B2%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%80%E1%85%A5%E1%86%B7%E1%84%89%E1%85%A1%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5.cpp) |
+| 수식 최대화 | [`C++`](./programmers/cpp/%E1%84%89%E1%85%AE%E1%84%89%E1%85%B5%E1%86%A8%20%E1%84%8E%E1%85%AC%E1%84%83%E1%85%A2%E1%84%92%E1%85%AA.cpp) |
+| 순위 검색 | [`C++`](./programmers/cpp/%E1%84%89%E1%85%AE%E1%86%AB%E1%84%8B%E1%85%B1%20%E1%84%80%E1%85%A5%E1%86%B7%E1%84%89%E1%85%A2%E1%86%A8.cpp) |
+| 숫자 문자열과 영단어 | [`C++`](./programmers/cpp/%E1%84%89%E1%85%AE%E1%86%BA%E1%84%8C%E1%85%A1%20%E1%84%86%E1%85%AE%E1%86%AB%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%A7%E1%86%AF%E1%84%80%E1%85%AA%20%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%83%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%A5.cpp) |
+| 신고 결과 받기 | [`C++`](./programmers/cpp/%E1%84%89%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%20%E1%84%80%E1%85%A7%E1%86%AF%E1%84%80%E1%85%AA%20%E1%84%87%E1%85%A1%E1%86%AE%E1%84%80%E1%85%B5.cpp) |
+| 신규 아이디 추천 | [`C++`](./programmers/cpp/%E1%84%89%E1%85%B5%E1%86%AB%E1%84%80%E1%85%B2%20%E1%84%8B%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B5%20%E1%84%8E%E1%85%AE%E1%84%8E%E1%85%A5%E1%86%AB.cpp) |
+| 양과 늑대 | [`C++`](./programmers/cpp/%E1%84%8B%E1%85%A3%E1%86%BC%E1%84%80%E1%85%AA%20%E1%84%82%E1%85%B3%E1%86%A8%E1%84%83%E1%85%A2.cpp) |
+| 양궁대회 | [`C++`](./programmers/cpp/%E1%84%8B%E1%85%A3%E1%86%BC%E1%84%80%E1%85%AE%E1%86%BC%E1%84%83%E1%85%A2%E1%84%92%E1%85%AC.cpp) |
+| 이모티콘 할인행사 | [`C++`](./programmers/cpp/%E1%84%8B%E1%85%B5%E1%84%86%E1%85%A9%E1%84%90%E1%85%B5%E1%84%8F%E1%85%A9%E1%86%AB%20%E1%84%92%E1%85%A1%E1%86%AF%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A1.cpp) |
+| 주차 요금 계산 | [`C++`](./programmers/cpp/%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20%E1%84%8B%E1%85%AD%E1%84%80%E1%85%B3%E1%86%B7%20%E1%84%80%E1%85%A8%E1%84%89%E1%85%A1%E1%86%AB.cpp) |
+| 징검다리 건너기 | [`C++`](./programmers/cpp/%E1%84%8C%E1%85%B5%E1%86%BC%E1%84%80%E1%85%A5%E1%86%B7%E1%84%83%E1%85%A1%E1%84%85%E1%85%B5%20%E1%84%80%E1%85%A5%E1%86%AB%E1%84%82%E1%85%A5%E1%84%80%E1%85%B5.cpp) |
+| 카드 짝 맞추기 | [`C++`](./programmers/cpp/%E1%84%8F%E1%85%A1%E1%84%83%E1%85%B3%20%E1%84%8D%E1%85%A1%E1%86%A8%20%E1%84%86%E1%85%A1%E1%86%BD%E1%84%8E%E1%85%AE%E1%84%80%E1%85%B5.cpp) |
+| 코딩 테스트 공부 | [`C++`](./programmers/cpp/%E1%84%8F%E1%85%A9%E1%84%83%E1%85%B5%E1%86%BC%20%E1%84%90%E1%85%A6%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%87%E1%85%AE.cpp) |
+| 키패드 누르기 | [`C++`](./programmers/cpp/%E1%84%8F%E1%85%B5%E1%84%91%E1%85%A2%E1%84%83%E1%85%B3%20%E1%84%82%E1%85%AE%E1%84%85%E1%85%B3%E1%84%80%E1%85%B5.cpp) |
+| 택배 배달과 수거하기 | [`C++`](./programmers/cpp/%E1%84%90%E1%85%A2%E1%86%A8%E1%84%87%E1%85%A2%20%E1%84%87%E1%85%A2%E1%84%83%E1%85%A1%E1%86%AF%E1%84%80%E1%85%AA%20%E1%84%89%E1%85%AE%E1%84%80%E1%85%A5%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5.cpp) |
+| 튜플 | [`C++`](./programmers/cpp/%E1%84%90%E1%85%B2%E1%84%91%E1%85%B3%E1%86%AF.cpp) |
+| 파괴되지 않은 건물 | [`C++`](./programmers/cpp/%E1%84%91%E1%85%A1%E1%84%80%E1%85%AC%E1%84%83%E1%85%AC%E1%84%8C%E1%85%B5%20%E1%84%8B%E1%85%A1%E1%86%AD%E1%84%8B%E1%85%B3%E1%86%AB%20%E1%84%80%E1%85%A5%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AF.cpp) |
+| 표 병합 | [`C++`](./programmers/cpp/%E1%84%91%E1%85%AD%20%E1%84%87%E1%85%A7%E1%86%BC%E1%84%92%E1%85%A1%E1%86%B8.cpp) |
+| 표 편집 | [`C++`](./programmers/cpp/%E1%84%91%E1%85%AD%20%E1%84%91%E1%85%A7%E1%86%AB%E1%84%8C%E1%85%B5%E1%86%B8.cpp) |
+| 표현 가능한 이진트리 | [`C++`](./programmers/cpp/%E1%84%91%E1%85%AD%E1%84%92%E1%85%A7%E1%86%AB%20%E1%84%80%E1%85%A1%E1%84%82%E1%85%B3%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%90%E1%85%B3%E1%84%85%E1%85%B5.cpp) |
+| 합승 택시 요금 | [`C++`](./programmers/cpp/%E1%84%92%E1%85%A1%E1%86%B8%E1%84%89%E1%85%B3%E1%86%BC%20%E1%84%90%E1%85%A2%E1%86%A8%E1%84%89%E1%85%B5%20%E1%84%8B%E1%85%AD%E1%84%80%E1%85%B3%E1%86%B7.cpp) |
 | 개인정보 수집 유효기간 | [`C++`](./programmers/cpp/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%20%EC%88%98%EC%A7%91%20%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84.cpp) |
 | 거리두기 확인하기 | [`C++`](./programmers/cpp/%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.cpp) |
 | 경주로 건설 | [`C++`](./programmers/cpp/%EA%B2%BD%EC%A3%BC%EB%A1%9C%20%EA%B1%B4%EC%84%A4.cpp) |
